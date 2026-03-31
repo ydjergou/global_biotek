@@ -1,0 +1,43 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="row mb-5">
+    <div class="col-md-12 text-center">
+        <h2 class="fw-bold text-primary mb-3"><i class="bi bi-info-circle"></i> À propos de Global Biotek</h2>
+        <p class="text-muted">Documentation, Méthodologie et Avertissements Légaux.</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-8 offset-md-2">
+        <div class="card border-0 shadow-sm mb-5 p-4">
+            <h4 class="fw-bold text-primary mb-4">Méthodologie</h4>
+            <p>La plateforme <strong>Global Biotek</strong> repose sur un moteur d'intelligence artificielle entraîné par des modèles de <strong>Gradient Boosting (Scikit-learn)</strong>. Ces modèles analysent des données historiques massives d'antibiogrammes collectés dans <strong>8 pays de la zone ECOWAS</strong>.</p>
+            
+            <h5 class="fw-bold text-secondary mt-4">Processus de Recommandation :</h5>
+            <ol>
+                <li><strong>Collecte</strong> : Saisie de la bactérie (ESKAPE), du pays et du site de prélèvement.</li>
+                <li><strong>Analyse IA</strong> : Le modèle prédit la probabilité de sensibilité, de résistance et de résultats intermédiaires pour 23 antibiotiques majeurs.</li>
+                <li><strong>Classement</strong> : Les antibiotiques sont classés par score de sensibilité décroissant pour faciliter la décision thérapeutique.</li>
+                <li><strong>Suggestion de Cocktails</strong> : L'IA identifie des paires de molécules synergiques basées sur les scores de confiance.</li>
+            </ol>
+        </div>
+
+        <div class="card border-0 shadow-sm mb-5 p-4">
+            <h4 class="fw-bold text-primary mb-4">Périmètre Technique</h4>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item"><strong>Frontend</strong> : Flask (UI Responsive avec Bootstrap)</li>
+                <li class="list-group-item"><strong>IA</strong> : Gradient Boosting (Scikit-learn)</li>
+                <li class="list-group-item"><strong>Visualisation</strong> : Plotly + Matplotlib</li>
+                <li class="list-group-item"><strong>Export</strong> : PDF (ReportLab)</li>
+            </ul>
+        </div>
+
+        <div class="card border-0 shadow-sm mb-5 p-4 bg-danger bg-opacity-10 border-start border-4 border-danger">
+            <h4 class="fw-bold text-danger mb-4"><i class="bi bi-shield-lock"></i> Avertissement Légal</h4>
+            <p><strong>Global Biotek</strong> est un outil expérimental destiné uniquement à la démonstration publique. Les recommandations générées ne doivent en aucun cas être utilisées pour le traitement de patients réels sans validation préalable par un médecin et des tests de laboratoire certifiés.</p>
+            <p class="mb-0 small text-muted">L'utilisation de cet outil dégage les concepteurs de toute responsabilité en cas de décision thérapeutique inappropriée.</p>
+        </div>
+    </div>
+</div>
+{% endblock %}

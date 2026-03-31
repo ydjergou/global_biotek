@@ -1,0 +1,88 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="row align-items-center mb-5">
+    <div class="col-md-6">
+        <h1 class="display-4 fw-bold text-primary">Global Biotek</h1>
+        <p class="lead">Lutte contre la résistance aux antibiotiques en Afrique de l'Ouest par l'IA.</p>
+        <p>Une plateforme intelligente connectant vos résultats microbiologiques aux recommandations thérapeutiques les plus efficaces en temps réel.</p>
+        <div class="mt-4">
+            <a href="/recommendation" class="btn btn-primary btn-lg">Commencer</a>
+            <a href="/about" class="btn btn-outline-secondary btn-lg">En savoir plus</a>
+        </div>
+    </div>
+    <div class="col-md-6 text-center">
+        <img src="{{ url_for('static', filename='img/image.png') }}" alt="Global Biotek IA" class="img-fluid rounded shadow-lg bg-white p-4" style="max-height: 400px; object-fit: contain;">
+    </div>
+</div>
+
+<div class="row text-center mb-5">
+    <div class="col-md-3 mb-4">
+        <div class="card p-3">
+            <i class="bi bi-database-check display-5 text-success"></i>
+            <h3 class="mt-2">{{ kpis.total_records }}</h3>
+            <p class="text-muted">Antibiogrammes analysés</p>
+        </div>
+    </div>
+    <div class="col-md-3 mb-4">
+        <div class="card p-3">
+            <i class="bi bi-geo-alt display-5 text-info"></i>
+            <h3 class="mt-2">{{ kpis.countries }}</h3>
+            <p class="text-muted">Pays (ECOWAS)</p>
+        </div>
+    </div>
+    <div class="col-md-3 mb-4">
+        <div class="card p-3">
+            <i class="bi bi-bug display-5 text-danger"></i>
+            <h3 class="mt-2">{{ kpis.pathogens }}</h3>
+            <p class="text-muted">Pathogènes suivis</p>
+        </div>
+    </div>
+    <div class="col-md-3 mb-4">
+        <div class="card p-3">
+            <i class="bi bi-capsule display-5 text-warning"></i>
+            <h3 class="mt-2">{{ kpis.antibiotics }}</h3>
+            <p class="text-muted">Antibiotiques couverts</p>
+        </div>
+    </div>
+</div>
+
+<div class="alert alert-warning border-start border-4 border-warning shadow-sm" role="alert">
+    <h4 class="alert-heading fw-bold"><i class="bi bi-exclamation-triangle-fill"></i> Avertissement Médical</h4>
+    <p>Cette plateforme est un prototype d'aide à la décision basé sur des modèles statistiques d'IA. Elle ne remplace en aucun cas le jugement clinique d'un professionnel de santé qualifié.</p>
+    <hr>
+    <p class="mb-0 small">Toute décision thérapeutique doit être prise par un médecin après examen du patient et des résultats biologiques certifiés.</p>
+</div>
+
+<div class="row mt-5">
+    <div class="col-md-12">
+        <h2 class="text-center mb-4">Pourquoi Global Biotek ?</h2>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title fw-bold"><i class="bi bi-lightning"></i> Instantanéité</h5>
+                        <p class="card-text">Obtenez une recommandation en moins de 2 secondes après la saisie du profil microbiologique.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title fw-bold"><i class="bi bi-graph-up-arrow"></i> Basé sur la donnée</h5>
+                        <p class="card-text">Modèle entraîné sur plus de 64 000 antibiogrammes réels issus de 8 pays d'Afrique de l'Ouest.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title fw-bold"><i class="bi bi-map"></i> Adapté localement</h5>
+                        <p class="card-text">Prend en compte les spécificités épidémiologiques de chaque pays de la zone ECOWAS.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

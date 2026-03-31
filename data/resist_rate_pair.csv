@@ -1,0 +1,1657 @@
+bacteria,antibiotic,country,resistance_rate
+Enterococcus faecium,Amoxicillin/Clavulanate,Benin,0.28328290538038947
+Enterococcus faecium,Amoxicillin/Clavulanate,Burkina Faso,0.529516638765441
+Enterococcus faecium,Amoxicillin/Clavulanate,Ivory Coast,0.6978603571488236
+Enterococcus faecium,Amoxicillin/Clavulanate,Ghana,0.4751394753077597
+Enterococcus faecium,Amoxicillin/Clavulanate,Mali,0.14056445832759562
+Enterococcus faecium,Amoxicillin/Clavulanate,Nigeria,0.12836481656484955
+Enterococcus faecium,Amoxicillin/Clavulanate,Senegal,0.4328055811693602
+Enterococcus faecium,Amoxicillin/Clavulanate,Togo,0.8566743436101574
+Enterococcus faecium,Ampicillin,Benin,0.32412767183798785
+Enterococcus faecium,Ampicillin,Burkina Faso,0.4648127795992315
+Enterococcus faecium,Ampicillin,Ivory Coast,0.6114148439827399
+Enterococcus faecium,Ampicillin,Ghana,0.33347796293313847
+Enterococcus faecium,Ampicillin,Mali,0.3138459494601127
+Enterococcus faecium,Ampicillin,Nigeria,0.43067866634314367
+Enterococcus faecium,Ampicillin,Senegal,0.5186107359106678
+Enterococcus faecium,Ampicillin,Togo,0.6356298997213439
+Enterococcus faecium,Ceftriaxone,Benin,0.21506023071628208
+Enterococcus faecium,Ceftriaxone,Burkina Faso,0.240205507112094
+Enterococcus faecium,Ceftriaxone,Ivory Coast,0.3512537951651663
+Enterococcus faecium,Ceftriaxone,Ghana,0.33770635149061423
+Enterococcus faecium,Ceftriaxone,Mali,0.622688577318578
+Enterococcus faecium,Ceftriaxone,Nigeria,0.49138674406500626
+Enterococcus faecium,Ceftriaxone,Senegal,0.1674532259389733
+Enterococcus faecium,Ceftriaxone,Togo,0.3828009797924733
+Enterococcus faecium,Ceftazidime,Benin,0.15210658297770002
+Enterococcus faecium,Ceftazidime,Burkina Faso,0.5156043223266514
+Enterococcus faecium,Ceftazidime,Ivory Coast,0.15512441801651156
+Enterococcus faecium,Ceftazidime,Ghana,0.5166944714028842
+Enterococcus faecium,Ceftazidime,Mali,0.21998435597461113
+Enterococcus faecium,Ceftazidime,Nigeria,0.38288924036449956
+Enterococcus faecium,Ceftazidime,Senegal,0.3711624604378193
+Enterococcus faecium,Ceftazidime,Togo,0.8478605128672657
+Enterococcus faecium,Cefotaxime,Benin,0.6210499310428595
+Enterococcus faecium,Cefotaxime,Burkina Faso,0.7996494140158957
+Enterococcus faecium,Cefotaxime,Ivory Coast,0.7618782666973039
+Enterococcus faecium,Cefotaxime,Ghana,0.6718729880348955
+Enterococcus faecium,Cefotaxime,Mali,0.7478761314000975
+Enterococcus faecium,Cefotaxime,Nigeria,0.866888072665992
+Enterococcus faecium,Cefotaxime,Senegal,0.6651183749899066
+Enterococcus faecium,Cefotaxime,Togo,0.7903206533138594
+Enterococcus faecium,Cefepime,Benin,0.4591922849992832
+Enterococcus faecium,Cefepime,Burkina Faso,0.6218158927300701
+Enterococcus faecium,Cefepime,Ivory Coast,0.8107260227105973
+Enterococcus faecium,Cefepime,Ghana,0.685444152848184
+Enterococcus faecium,Cefepime,Mali,0.6925746964056059
+Enterococcus faecium,Cefepime,Nigeria,0.5944004500067536
+Enterococcus faecium,Cefepime,Senegal,0.31680549027944616
+Enterococcus faecium,Cefepime,Togo,0.10274446396712689
+Enterococcus faecium,Imipenem,Benin,0.5751884777712288
+Enterococcus faecium,Imipenem,Burkina Faso,0.5238708295601658
+Enterococcus faecium,Imipenem,Ivory Coast,0.41744314004181715
+Enterococcus faecium,Imipenem,Ghana,0.25150753319226216
+Enterococcus faecium,Imipenem,Mali,0.7332632742029966
+Enterococcus faecium,Imipenem,Nigeria,0.5924685229840594
+Enterococcus faecium,Imipenem,Senegal,0.7345606302801267
+Enterococcus faecium,Imipenem,Togo,0.14047596988372757
+Enterococcus faecium,Meropenem,Benin,0.8395570633367168
+Enterococcus faecium,Meropenem,Burkina Faso,0.7459718469739286
+Enterococcus faecium,Meropenem,Ivory Coast,0.5368642616392222
+Enterococcus faecium,Meropenem,Ghana,0.3552904403345848
+Enterococcus faecium,Meropenem,Mali,0.7404406358118494
+Enterococcus faecium,Meropenem,Nigeria,0.29895452420118396
+Enterococcus faecium,Meropenem,Senegal,0.7750159611328349
+Enterococcus faecium,Meropenem,Togo,0.3029112865586656
+Enterococcus faecium,Ertapenem,Benin,0.41364271932026475
+Enterococcus faecium,Ertapenem,Burkina Faso,0.2053748787036508
+Enterococcus faecium,Ertapenem,Ivory Coast,0.16577005714538134
+Enterococcus faecium,Ertapenem,Ghana,0.2712383798329595
+Enterococcus faecium,Ertapenem,Mali,0.5060436508991518
+Enterococcus faecium,Ertapenem,Nigeria,0.5684200885036049
+Enterococcus faecium,Ertapenem,Senegal,0.32329192344874197
+Enterococcus faecium,Ertapenem,Togo,0.3662155120611985
+Enterococcus faecium,Ciprofloxacin,Benin,0.5187047502866692
+Enterococcus faecium,Ciprofloxacin,Burkina Faso,0.5311914724568114
+Enterococcus faecium,Ciprofloxacin,Ivory Coast,0.19690890048676632
+Enterococcus faecium,Ciprofloxacin,Ghana,0.12197643319829235
+Enterococcus faecium,Ciprofloxacin,Mali,0.17655733821714376
+Enterococcus faecium,Ciprofloxacin,Nigeria,0.33313798982649556
+Enterococcus faecium,Ciprofloxacin,Senegal,0.682670520559417
+Enterococcus faecium,Ciprofloxacin,Togo,0.4070954286603947
+Enterococcus faecium,Levofloxacin,Benin,0.6673158505655901
+Enterococcus faecium,Levofloxacin,Burkina Faso,0.7417994686852343
+Enterococcus faecium,Levofloxacin,Ivory Coast,0.8863179100085776
+Enterococcus faecium,Levofloxacin,Ghana,0.33350411511374045
+Enterococcus faecium,Levofloxacin,Mali,0.6906360733713064
+Enterococcus faecium,Levofloxacin,Nigeria,0.34460744428464474
+Enterococcus faecium,Levofloxacin,Senegal,0.10263566501758303
+Enterococcus faecium,Levofloxacin,Togo,0.19379551822380733
+Enterococcus faecium,Gentamicin,Benin,0.33434788218419886
+Enterococcus faecium,Gentamicin,Burkina Faso,0.620306337968761
+Enterococcus faecium,Gentamicin,Ivory Coast,0.4445904714246379
+Enterococcus faecium,Gentamicin,Ghana,0.15428841505045698
+Enterococcus faecium,Gentamicin,Mali,0.26234367553850896
+Enterococcus faecium,Gentamicin,Nigeria,0.7521080336660072
+Enterococcus faecium,Gentamicin,Senegal,0.3430603526037832
+Enterococcus faecium,Gentamicin,Togo,0.3119999405488355
+Enterococcus faecium,Amikacin,Benin,0.32734236423709784
+Enterococcus faecium,Amikacin,Burkina Faso,0.2019571250585533
+Enterococcus faecium,Amikacin,Ivory Coast,0.3982916034238635
+Enterococcus faecium,Amikacin,Ghana,0.16015869718934328
+Enterococcus faecium,Amikacin,Mali,0.32181274245975067
+Enterococcus faecium,Amikacin,Nigeria,0.897360016996862
+Enterococcus faecium,Amikacin,Senegal,0.1624804414230047
+Enterococcus faecium,Amikacin,Togo,0.10477854522278758
+Enterococcus faecium,Tobramycin,Benin,0.7045677261058184
+Enterococcus faecium,Tobramycin,Burkina Faso,0.3982688162469684
+Enterococcus faecium,Tobramycin,Ivory Coast,0.3379190328986258
+Enterococcus faecium,Tobramycin,Ghana,0.4043065773062958
+Enterococcus faecium,Tobramycin,Mali,0.44817243309701105
+Enterococcus faecium,Tobramycin,Nigeria,0.7458446480950863
+Enterococcus faecium,Tobramycin,Senegal,0.561540110440976
+Enterococcus faecium,Tobramycin,Togo,0.38217156982471323
+Enterococcus faecium,Trimethoprim/Sulfamethoxazole,Benin,0.8837967521100136
+Enterococcus faecium,Trimethoprim/Sulfamethoxazole,Burkina Faso,0.7895659385191482
+Enterococcus faecium,Trimethoprim/Sulfamethoxazole,Ivory Coast,0.7117154545321684
+Enterococcus faecium,Trimethoprim/Sulfamethoxazole,Ghana,0.27449876313370325
+Enterococcus faecium,Trimethoprim/Sulfamethoxazole,Mali,0.5174727311750481
+Enterococcus faecium,Trimethoprim/Sulfamethoxazole,Nigeria,0.5033604320949137
+Enterococcus faecium,Trimethoprim/Sulfamethoxazole,Senegal,0.4742945603508958
+Enterococcus faecium,Trimethoprim/Sulfamethoxazole,Togo,0.2979776297380161
+Enterococcus faecium,Tetracycline,Benin,0.49214747520175217
+Enterococcus faecium,Tetracycline,Burkina Faso,0.17842987224742288
+Enterococcus faecium,Tetracycline,Ivory Coast,0.4488511901429938
+Enterococcus faecium,Tetracycline,Ghana,0.21112705651292024
+Enterococcus faecium,Tetracycline,Mali,0.49818425752110407
+Enterococcus faecium,Tetracycline,Nigeria,0.18461729823546724
+Enterococcus faecium,Tetracycline,Senegal,0.7240068210758864
+Enterococcus faecium,Tetracycline,Togo,0.5043980938474341
+Enterococcus faecium,Doxycycline,Benin,0.6926540480520444
+Enterococcus faecium,Doxycycline,Burkina Faso,0.11076089674858292
+Enterococcus faecium,Doxycycline,Ivory Coast,0.2653025613672549
+Enterococcus faecium,Doxycycline,Ghana,0.22319097089288836
+Enterococcus faecium,Doxycycline,Mali,0.37507539388498057
+Enterococcus faecium,Doxycycline,Nigeria,0.5367904164110382
+Enterococcus faecium,Doxycycline,Senegal,0.38933801173232185
+Enterococcus faecium,Doxycycline,Togo,0.27901732466605733
+Enterococcus faecium,Clindamycin,Benin,0.6260385424844306
+Enterococcus faecium,Clindamycin,Burkina Faso,0.23325127100699242
+Enterococcus faecium,Clindamycin,Ivory Coast,0.5128719831051215
+Enterococcus faecium,Clindamycin,Ghana,0.4154374145393862
+Enterococcus faecium,Clindamycin,Mali,0.6916906373069983
+Enterococcus faecium,Clindamycin,Nigeria,0.5212838369298181
+Enterococcus faecium,Clindamycin,Senegal,0.606206372477125
+Enterococcus faecium,Clindamycin,Togo,0.4660641095249568
+Enterococcus faecium,Erythromycin,Benin,0.6942311911783656
+Enterococcus faecium,Erythromycin,Burkina Faso,0.12047433982604111
+Enterococcus faecium,Erythromycin,Ivory Coast,0.31099404886014914
+Enterococcus faecium,Erythromycin,Ghana,0.2051369029296801
+Enterococcus faecium,Erythromycin,Mali,0.5456108340540776
+Enterococcus faecium,Erythromycin,Nigeria,0.14099208450232528
+Enterococcus faecium,Erythromycin,Senegal,0.39124972555519333
+Enterococcus faecium,Erythromycin,Togo,0.8916355280208795
+Enterococcus faecium,Linezolid,Benin,0.8286786148616992
+Enterococcus faecium,Linezolid,Burkina Faso,0.6888222826074998
+Enterococcus faecium,Linezolid,Ivory Coast,0.4435834233498913
+Enterococcus faecium,Linezolid,Ghana,0.3794601897695816
+Enterococcus faecium,Linezolid,Mali,0.6101524592035603
+Enterococcus faecium,Linezolid,Nigeria,0.8483445335805302
+Enterococcus faecium,Linezolid,Senegal,0.5117391043107653
+Enterococcus faecium,Linezolid,Togo,0.13635900246584676
+Enterococcus faecium,Vancomycin,Benin,0.12934783565471158
+Enterococcus faecium,Vancomycin,Burkina Faso,0.12180824732042242
+Enterococcus faecium,Vancomycin,Ivory Coast,0.6717953053397028
+Enterococcus faecium,Vancomycin,Ghana,0.8754572662595427
+Enterococcus faecium,Vancomycin,Mali,0.7760228153421597
+Enterococcus faecium,Vancomycin,Nigeria,0.5395681127892288
+Enterococcus faecium,Vancomycin,Senegal,0.459868161603444
+Enterococcus faecium,Vancomycin,Togo,0.4561727688293967
+Enterococcus faecium,Piperacillin/Tazobactam,Benin,0.360931103858008
+Enterococcus faecium,Piperacillin/Tazobactam,Burkina Faso,0.8549055490340538
+Enterococcus faecium,Piperacillin/Tazobactam,Ivory Coast,0.15909525115006862
+Enterococcus faecium,Piperacillin/Tazobactam,Ghana,0.643743850349554
+Enterococcus faecium,Piperacillin/Tazobactam,Mali,0.25468005546588257
+Enterococcus faecium,Piperacillin/Tazobactam,Nigeria,0.7787915800699748
+Enterococcus faecium,Piperacillin/Tazobactam,Senegal,0.8784844967769512
+Enterococcus faecium,Piperacillin/Tazobactam,Togo,0.342236509595257
+Enterococcus faecium,Nitrofurantoin,Benin,0.8328154493774241
+Enterococcus faecium,Nitrofurantoin,Burkina Faso,0.20898155257132603
+Enterococcus faecium,Nitrofurantoin,Ivory Coast,0.23915017809007325
+Enterococcus faecium,Nitrofurantoin,Ghana,0.2282942646774079
+Enterococcus faecium,Nitrofurantoin,Mali,0.2730072868185872
+Enterococcus faecium,Nitrofurantoin,Nigeria,0.7673330129944554
+Enterococcus faecium,Nitrofurantoin,Senegal,0.7554414031938645
+Enterococcus faecium,Nitrofurantoin,Togo,0.3027215577973458
+Staphylococcus aureus,Amoxicillin/Clavulanate,Benin,0.3079359808140601
+Staphylococcus aureus,Amoxicillin/Clavulanate,Burkina Faso,0.7945415176992411
+Staphylococcus aureus,Amoxicillin/Clavulanate,Ivory Coast,0.36804807172288545
+Staphylococcus aureus,Amoxicillin/Clavulanate,Ghana,0.7804509390476095
+Staphylococcus aureus,Amoxicillin/Clavulanate,Mali,0.25940190038447564
+Staphylococcus aureus,Amoxicillin/Clavulanate,Nigeria,0.38194488094536916
+Staphylococcus aureus,Amoxicillin/Clavulanate,Senegal,0.7752267509919156
+Staphylococcus aureus,Amoxicillin/Clavulanate,Togo,0.30046828274649995
+Staphylococcus aureus,Ampicillin,Benin,0.431843237788735
+Staphylococcus aureus,Ampicillin,Burkina Faso,0.765483966857775
+Staphylococcus aureus,Ampicillin,Ivory Coast,0.6680869696822603
+Staphylococcus aureus,Ampicillin,Ghana,0.5352302666160772
+Staphylococcus aureus,Ampicillin,Mali,0.7806015180249966
+Staphylococcus aureus,Ampicillin,Nigeria,0.8246689496211358
+Staphylococcus aureus,Ampicillin,Senegal,0.44816522108097745
+Staphylococcus aureus,Ampicillin,Togo,0.7577526027212976
+Staphylococcus aureus,Ceftriaxone,Benin,0.64999499229036
+Staphylococcus aureus,Ceftriaxone,Burkina Faso,0.2096934513649548
+Staphylococcus aureus,Ceftriaxone,Ivory Coast,0.8451399810952772
+Staphylococcus aureus,Ceftriaxone,Ghana,0.8372783660311125
+Staphylococcus aureus,Ceftriaxone,Mali,0.6156104638440295
+Staphylococcus aureus,Ceftriaxone,Nigeria,0.8502915101491828
+Staphylococcus aureus,Ceftriaxone,Senegal,0.33161724110262025
+Staphylococcus aureus,Ceftriaxone,Togo,0.39824661443035303
+Staphylococcus aureus,Ceftazidime,Benin,0.2820475302314163
+Staphylococcus aureus,Ceftazidime,Burkina Faso,0.1332542693031794
+Staphylococcus aureus,Ceftazidime,Ivory Coast,0.21353620797226328
+Staphylococcus aureus,Ceftazidime,Ghana,0.5701353999996461
+Staphylococcus aureus,Ceftazidime,Mali,0.6016492943655315
+Staphylococcus aureus,Ceftazidime,Nigeria,0.738352373956273
+Staphylococcus aureus,Ceftazidime,Senegal,0.21075987081697267
+Staphylococcus aureus,Ceftazidime,Togo,0.8182594944681195
+Staphylococcus aureus,Cefotaxime,Benin,0.4533546350059038
+Staphylococcus aureus,Cefotaxime,Burkina Faso,0.8316626062312497
+Staphylococcus aureus,Cefotaxime,Ivory Coast,0.5664420108255214
+Staphylococcus aureus,Cefotaxime,Ghana,0.6440030425942413
+Staphylococcus aureus,Cefotaxime,Mali,0.22591687719026599
+Staphylococcus aureus,Cefotaxime,Nigeria,0.5317408439117125
+Staphylococcus aureus,Cefotaxime,Senegal,0.8228486968691415
+Staphylococcus aureus,Cefotaxime,Togo,0.6153372105322253
+Staphylococcus aureus,Cefepime,Benin,0.40587899732318444
+Staphylococcus aureus,Cefepime,Burkina Faso,0.2768945465496986
+Staphylococcus aureus,Cefepime,Ivory Coast,0.6227576314084284
+Staphylococcus aureus,Cefepime,Ghana,0.3327228174772566
+Staphylococcus aureus,Cefepime,Mali,0.6234807509154352
+Staphylococcus aureus,Cefepime,Nigeria,0.11369752559461813
+Staphylococcus aureus,Cefepime,Senegal,0.6024143305935012
+Staphylococcus aureus,Cefepime,Togo,0.2402980931887939
+Staphylococcus aureus,Imipenem,Benin,0.86236765110994
+Staphylococcus aureus,Imipenem,Burkina Faso,0.7811024925864509
+Staphylococcus aureus,Imipenem,Ivory Coast,0.1398865070999893
+Staphylococcus aureus,Imipenem,Ghana,0.384583462387846
+Staphylococcus aureus,Imipenem,Mali,0.15782593629385255
+Staphylococcus aureus,Imipenem,Nigeria,0.28873866279686156
+Staphylococcus aureus,Imipenem,Senegal,0.3274542455754206
+Staphylococcus aureus,Imipenem,Togo,0.6924991204296299
+Staphylococcus aureus,Meropenem,Benin,0.6447004665712319
+Staphylococcus aureus,Meropenem,Burkina Faso,0.8475987739674828
+Staphylococcus aureus,Meropenem,Ivory Coast,0.2751774122006496
+Staphylococcus aureus,Meropenem,Ghana,0.5404455348570388
+Staphylococcus aureus,Meropenem,Mali,0.5800140530683774
+Staphylococcus aureus,Meropenem,Nigeria,0.7896477877818364
+Staphylococcus aureus,Meropenem,Senegal,0.5949480294881518
+Staphylococcus aureus,Meropenem,Togo,0.5639019686311764
+Staphylococcus aureus,Ertapenem,Benin,0.6694290024355535
+Staphylococcus aureus,Ertapenem,Burkina Faso,0.5118512897278652
+Staphylococcus aureus,Ertapenem,Ivory Coast,0.6385733103877096
+Staphylococcus aureus,Ertapenem,Ghana,0.4628192436666938
+Staphylococcus aureus,Ertapenem,Mali,0.396595040695348
+Staphylococcus aureus,Ertapenem,Nigeria,0.7437858639928419
+Staphylococcus aureus,Ertapenem,Senegal,0.1667826174246561
+Staphylococcus aureus,Ertapenem,Togo,0.23216662021395235
+Staphylococcus aureus,Ciprofloxacin,Benin,0.3833682986988586
+Staphylococcus aureus,Ciprofloxacin,Burkina Faso,0.17714732898366128
+Staphylococcus aureus,Ciprofloxacin,Ivory Coast,0.17881896127036054
+Staphylococcus aureus,Ciprofloxacin,Ghana,0.48894889137789155
+Staphylococcus aureus,Ciprofloxacin,Mali,0.23276830170650575
+Staphylococcus aureus,Ciprofloxacin,Nigeria,0.3804899501419533
+Staphylococcus aureus,Ciprofloxacin,Senegal,0.35700084313925096
+Staphylococcus aureus,Ciprofloxacin,Togo,0.5843205930546257
+Staphylococcus aureus,Levofloxacin,Benin,0.5792165304231697
+Staphylococcus aureus,Levofloxacin,Burkina Faso,0.729319101529787
+Staphylococcus aureus,Levofloxacin,Ivory Coast,0.28902285399924244
+Staphylococcus aureus,Levofloxacin,Ghana,0.6121822542976384
+Staphylococcus aureus,Levofloxacin,Mali,0.8503424261133166
+Staphylococcus aureus,Levofloxacin,Nigeria,0.3489485952474521
+Staphylococcus aureus,Levofloxacin,Senegal,0.3709167622419385
+Staphylococcus aureus,Levofloxacin,Togo,0.11947865962012348
+Staphylococcus aureus,Gentamicin,Benin,0.1007685420418592
+Staphylococcus aureus,Gentamicin,Burkina Faso,0.1958436888013793
+Staphylococcus aureus,Gentamicin,Ivory Coast,0.766490170639134
+Staphylococcus aureus,Gentamicin,Ghana,0.5501009294649037
+Staphylococcus aureus,Gentamicin,Mali,0.156788263360838
+Staphylococcus aureus,Gentamicin,Nigeria,0.20413952065502627
+Staphylococcus aureus,Gentamicin,Senegal,0.8984971399448118
+Staphylococcus aureus,Gentamicin,Togo,0.11610029673490896
+Staphylococcus aureus,Amikacin,Benin,0.84521160162926
+Staphylococcus aureus,Amikacin,Burkina Faso,0.8779823813357016
+Staphylococcus aureus,Amikacin,Ivory Coast,0.3663634054911781
+Staphylococcus aureus,Amikacin,Ghana,0.17440204922191285
+Staphylococcus aureus,Amikacin,Mali,0.7164928587804045
+Staphylococcus aureus,Amikacin,Nigeria,0.8313694160895239
+Staphylococcus aureus,Amikacin,Senegal,0.8725183353940945
+Staphylococcus aureus,Amikacin,Togo,0.6341914559025404
+Staphylococcus aureus,Tobramycin,Benin,0.8000903129746527
+Staphylococcus aureus,Tobramycin,Burkina Faso,0.10012741579770933
+Staphylococcus aureus,Tobramycin,Ivory Coast,0.10637473087078426
+Staphylococcus aureus,Tobramycin,Ghana,0.2823994806057599
+Staphylococcus aureus,Tobramycin,Mali,0.6870543071991625
+Staphylococcus aureus,Tobramycin,Nigeria,0.2832650624331395
+Staphylococcus aureus,Tobramycin,Senegal,0.13596053133974256
+Staphylococcus aureus,Tobramycin,Togo,0.10238957748459727
+Staphylococcus aureus,Trimethoprim/Sulfamethoxazole,Benin,0.634328065333149
+Staphylococcus aureus,Trimethoprim/Sulfamethoxazole,Burkina Faso,0.5769041451934878
+Staphylococcus aureus,Trimethoprim/Sulfamethoxazole,Ivory Coast,0.49215406357829705
+Staphylococcus aureus,Trimethoprim/Sulfamethoxazole,Ghana,0.2181438543504287
+Staphylococcus aureus,Trimethoprim/Sulfamethoxazole,Mali,0.2140511303049154
+Staphylococcus aureus,Trimethoprim/Sulfamethoxazole,Nigeria,0.15520334690472418
+Staphylococcus aureus,Trimethoprim/Sulfamethoxazole,Senegal,0.3979020322065575
+Staphylococcus aureus,Trimethoprim/Sulfamethoxazole,Togo,0.3308186171519754
+Staphylococcus aureus,Tetracycline,Benin,0.4496697457071672
+Staphylococcus aureus,Tetracycline,Burkina Faso,0.3644939651447966
+Staphylococcus aureus,Tetracycline,Ivory Coast,0.3720670694091679
+Staphylococcus aureus,Tetracycline,Ghana,0.6650106008580255
+Staphylococcus aureus,Tetracycline,Mali,0.5821776665493836
+Staphylococcus aureus,Tetracycline,Nigeria,0.4207024384607455
+Staphylococcus aureus,Tetracycline,Senegal,0.13387502966457376
+Staphylococcus aureus,Tetracycline,Togo,0.3106526226669776
+Staphylococcus aureus,Doxycycline,Benin,0.6179463633500687
+Staphylococcus aureus,Doxycycline,Burkina Faso,0.7903377089954783
+Staphylococcus aureus,Doxycycline,Ivory Coast,0.5525915658571824
+Staphylococcus aureus,Doxycycline,Ghana,0.45364111013022457
+Staphylococcus aureus,Doxycycline,Mali,0.36730665133340423
+Staphylococcus aureus,Doxycycline,Nigeria,0.16063219800128686
+Staphylococcus aureus,Doxycycline,Senegal,0.6858172736831112
+Staphylococcus aureus,Doxycycline,Togo,0.636591710667521
+Staphylococcus aureus,Clindamycin,Benin,0.14872377691904354
+Staphylococcus aureus,Clindamycin,Burkina Faso,0.6938590253778589
+Staphylococcus aureus,Clindamycin,Ivory Coast,0.1842411428426022
+Staphylococcus aureus,Clindamycin,Ghana,0.5051056209551748
+Staphylococcus aureus,Clindamycin,Mali,0.4810994267711255
+Staphylococcus aureus,Clindamycin,Nigeria,0.32973561006971136
+Staphylococcus aureus,Clindamycin,Senegal,0.36825347730701163
+Staphylococcus aureus,Clindamycin,Togo,0.31903433819674276
+Staphylococcus aureus,Erythromycin,Benin,0.2890417733343984
+Staphylococcus aureus,Erythromycin,Burkina Faso,0.30417770587353654
+Staphylococcus aureus,Erythromycin,Ivory Coast,0.1642360165652873
+Staphylococcus aureus,Erythromycin,Ghana,0.6454443256489284
+Staphylococcus aureus,Erythromycin,Mali,0.2189963011633025
+Staphylococcus aureus,Erythromycin,Nigeria,0.8136481773369605
+Staphylococcus aureus,Erythromycin,Senegal,0.11515487385201971
+Staphylococcus aureus,Erythromycin,Togo,0.33692202082545264
+Staphylococcus aureus,Linezolid,Benin,0.8373598680377748
+Staphylococcus aureus,Linezolid,Burkina Faso,0.6995860894324029
+Staphylococcus aureus,Linezolid,Ivory Coast,0.7027001707371048
+Staphylococcus aureus,Linezolid,Ghana,0.5302656447753857
+Staphylococcus aureus,Linezolid,Mali,0.3526253117039341
+Staphylococcus aureus,Linezolid,Nigeria,0.7996267022407639
+Staphylococcus aureus,Linezolid,Senegal,0.13865141218287605
+Staphylococcus aureus,Linezolid,Togo,0.7918367158832327
+Staphylococcus aureus,Vancomycin,Benin,0.47443383916610915
+Staphylococcus aureus,Vancomycin,Burkina Faso,0.6783290666327739
+Staphylococcus aureus,Vancomycin,Ivory Coast,0.6952788008833319
+Staphylococcus aureus,Vancomycin,Ghana,0.1071549509202181
+Staphylococcus aureus,Vancomycin,Mali,0.5773807639144348
+Staphylococcus aureus,Vancomycin,Nigeria,0.2969594567230056
+Staphylococcus aureus,Vancomycin,Senegal,0.2166359230480377
+Staphylococcus aureus,Vancomycin,Togo,0.10152849431710492
+Staphylococcus aureus,Piperacillin/Tazobactam,Benin,0.7357758090620723
+Staphylococcus aureus,Piperacillin/Tazobactam,Burkina Faso,0.7720641525705754
+Staphylococcus aureus,Piperacillin/Tazobactam,Ivory Coast,0.45892976194054635
+Staphylococcus aureus,Piperacillin/Tazobactam,Ghana,0.7743102979995372
+Staphylococcus aureus,Piperacillin/Tazobactam,Mali,0.7285523267964402
+Staphylococcus aureus,Piperacillin/Tazobactam,Nigeria,0.5209995842877028
+Staphylococcus aureus,Piperacillin/Tazobactam,Senegal,0.7916169275370536
+Staphylococcus aureus,Piperacillin/Tazobactam,Togo,0.6574336145449265
+Staphylococcus aureus,Nitrofurantoin,Benin,0.8884425777805036
+Staphylococcus aureus,Nitrofurantoin,Burkina Faso,0.27611947155856353
+Staphylococcus aureus,Nitrofurantoin,Ivory Coast,0.5650075318289749
+Staphylococcus aureus,Nitrofurantoin,Ghana,0.8277234889628703
+Staphylococcus aureus,Nitrofurantoin,Mali,0.5983253073031513
+Staphylococcus aureus,Nitrofurantoin,Nigeria,0.7651331527539379
+Staphylococcus aureus,Nitrofurantoin,Senegal,0.4263598187564869
+Staphylococcus aureus,Nitrofurantoin,Togo,0.6302162023162499
+Klebsiella pneumoniae,Amoxicillin/Clavulanate,Benin,0.7975186750664979
+Klebsiella pneumoniae,Amoxicillin/Clavulanate,Burkina Faso,0.4666928414074273
+Klebsiella pneumoniae,Amoxicillin/Clavulanate,Ivory Coast,0.6204132091722637
+Klebsiella pneumoniae,Amoxicillin/Clavulanate,Ghana,0.4656765485940495
+Klebsiella pneumoniae,Amoxicillin/Clavulanate,Mali,0.6136950407522732
+Klebsiella pneumoniae,Amoxicillin/Clavulanate,Nigeria,0.5293330716925799
+Klebsiella pneumoniae,Amoxicillin/Clavulanate,Senegal,0.10121475132587276
+Klebsiella pneumoniae,Amoxicillin/Clavulanate,Togo,0.658671432757382
+Klebsiella pneumoniae,Ampicillin,Benin,0.8002779589489417
+Klebsiella pneumoniae,Ampicillin,Burkina Faso,0.17142818361542256
+Klebsiella pneumoniae,Ampicillin,Ivory Coast,0.18847081359224696
+Klebsiella pneumoniae,Ampicillin,Ghana,0.45137781367261953
+Klebsiella pneumoniae,Ampicillin,Mali,0.2518819858002157
+Klebsiella pneumoniae,Ampicillin,Nigeria,0.6907215198634795
+Klebsiella pneumoniae,Ampicillin,Senegal,0.7409648083692306
+Klebsiella pneumoniae,Ampicillin,Togo,0.771597554263797
+Klebsiella pneumoniae,Ceftriaxone,Benin,0.4931831675401631
+Klebsiella pneumoniae,Ceftriaxone,Burkina Faso,0.1665293706828221
+Klebsiella pneumoniae,Ceftriaxone,Ivory Coast,0.48725445227594877
+Klebsiella pneumoniae,Ceftriaxone,Ghana,0.12038262025200873
+Klebsiella pneumoniae,Ceftriaxone,Mali,0.7940567273662017
+Klebsiella pneumoniae,Ceftriaxone,Nigeria,0.675470613821455
+Klebsiella pneumoniae,Ceftriaxone,Senegal,0.5853436917915319
+Klebsiella pneumoniae,Ceftriaxone,Togo,0.6852398576760867
+Klebsiella pneumoniae,Ceftazidime,Benin,0.36299085660825947
+Klebsiella pneumoniae,Ceftazidime,Burkina Faso,0.26433668847169267
+Klebsiella pneumoniae,Ceftazidime,Ivory Coast,0.26273002328191075
+Klebsiella pneumoniae,Ceftazidime,Ghana,0.8456202490204742
+Klebsiella pneumoniae,Ceftazidime,Mali,0.7780653246488355
+Klebsiella pneumoniae,Ceftazidime,Nigeria,0.1769708175088833
+Klebsiella pneumoniae,Ceftazidime,Senegal,0.6996904674151931
+Klebsiella pneumoniae,Ceftazidime,Togo,0.5674064671566886
+Klebsiella pneumoniae,Cefotaxime,Benin,0.7317732627387872
+Klebsiella pneumoniae,Cefotaxime,Burkina Faso,0.5008004866962379
+Klebsiella pneumoniae,Cefotaxime,Ivory Coast,0.5409004393982073
+Klebsiella pneumoniae,Cefotaxime,Ghana,0.81424237387175
+Klebsiella pneumoniae,Cefotaxime,Mali,0.516728740984162
+Klebsiella pneumoniae,Cefotaxime,Nigeria,0.13960653389944755
+Klebsiella pneumoniae,Cefotaxime,Senegal,0.27030764790973627
+Klebsiella pneumoniae,Cefotaxime,Togo,0.21062587299512778
+Klebsiella pneumoniae,Cefepime,Benin,0.11326798940986826
+Klebsiella pneumoniae,Cefepime,Burkina Faso,0.4211667992681589
+Klebsiella pneumoniae,Cefepime,Ivory Coast,0.7240440694854194
+Klebsiella pneumoniae,Cefepime,Ghana,0.1347725417178709
+Klebsiella pneumoniae,Cefepime,Mali,0.4411447326059136
+Klebsiella pneumoniae,Cefepime,Nigeria,0.7899846627561373
+Klebsiella pneumoniae,Cefepime,Senegal,0.42847099859978177
+Klebsiella pneumoniae,Cefepime,Togo,0.4784436294217832
+Klebsiella pneumoniae,Imipenem,Benin,0.8486248212062468
+Klebsiella pneumoniae,Imipenem,Burkina Faso,0.7874725624168629
+Klebsiella pneumoniae,Imipenem,Ivory Coast,0.5780920847770695
+Klebsiella pneumoniae,Imipenem,Ghana,0.17031722502611624
+Klebsiella pneumoniae,Imipenem,Mali,0.6233460511079707
+Klebsiella pneumoniae,Imipenem,Nigeria,0.4607445426952015
+Klebsiella pneumoniae,Imipenem,Senegal,0.6527773381764138
+Klebsiella pneumoniae,Imipenem,Togo,0.4878470145682482
+Klebsiella pneumoniae,Meropenem,Benin,0.8483401355860437
+Klebsiella pneumoniae,Meropenem,Burkina Faso,0.260191203806877
+Klebsiella pneumoniae,Meropenem,Ivory Coast,0.18612854475107268
+Klebsiella pneumoniae,Meropenem,Ghana,0.4634970346985233
+Klebsiella pneumoniae,Meropenem,Mali,0.6944687871246427
+Klebsiella pneumoniae,Meropenem,Nigeria,0.6170669721947932
+Klebsiella pneumoniae,Meropenem,Senegal,0.15821116095341214
+Klebsiella pneumoniae,Meropenem,Togo,0.4013718210302809
+Klebsiella pneumoniae,Ertapenem,Benin,0.7677176773537612
+Klebsiella pneumoniae,Ertapenem,Burkina Faso,0.38152508931001206
+Klebsiella pneumoniae,Ertapenem,Ivory Coast,0.5005995997132765
+Klebsiella pneumoniae,Ertapenem,Ghana,0.43739326588570815
+Klebsiella pneumoniae,Ertapenem,Mali,0.5581093405004346
+Klebsiella pneumoniae,Ertapenem,Nigeria,0.624184165388872
+Klebsiella pneumoniae,Ertapenem,Senegal,0.163628176437206
+Klebsiella pneumoniae,Ertapenem,Togo,0.6158178769463138
+Klebsiella pneumoniae,Ciprofloxacin,Benin,0.8984267922101707
+Klebsiella pneumoniae,Ciprofloxacin,Burkina Faso,0.44484330210904843
+Klebsiella pneumoniae,Ciprofloxacin,Ivory Coast,0.7587564010419524
+Klebsiella pneumoniae,Ciprofloxacin,Ghana,0.5211902935074587
+Klebsiella pneumoniae,Ciprofloxacin,Mali,0.6296865261993653
+Klebsiella pneumoniae,Ciprofloxacin,Nigeria,0.5198279495668194
+Klebsiella pneumoniae,Ciprofloxacin,Senegal,0.46895417754810975
+Klebsiella pneumoniae,Ciprofloxacin,Togo,0.7569267762782818
+Klebsiella pneumoniae,Levofloxacin,Benin,0.3932826883365004
+Klebsiella pneumoniae,Levofloxacin,Burkina Faso,0.17552449098298448
+Klebsiella pneumoniae,Levofloxacin,Ivory Coast,0.6526129262528964
+Klebsiella pneumoniae,Levofloxacin,Ghana,0.3821561082495383
+Klebsiella pneumoniae,Levofloxacin,Mali,0.2970166812434273
+Klebsiella pneumoniae,Levofloxacin,Nigeria,0.3712994138336797
+Klebsiella pneumoniae,Levofloxacin,Senegal,0.6297858996118717
+Klebsiella pneumoniae,Levofloxacin,Togo,0.48227605149615416
+Klebsiella pneumoniae,Gentamicin,Benin,0.10398770437080805
+Klebsiella pneumoniae,Gentamicin,Burkina Faso,0.18940190810740776
+Klebsiella pneumoniae,Gentamicin,Ivory Coast,0.19794545100930688
+Klebsiella pneumoniae,Gentamicin,Ghana,0.293057007776548
+Klebsiella pneumoniae,Gentamicin,Mali,0.6613705567447759
+Klebsiella pneumoniae,Gentamicin,Nigeria,0.4635778486679234
+Klebsiella pneumoniae,Gentamicin,Senegal,0.3336902747167135
+Klebsiella pneumoniae,Gentamicin,Togo,0.7558290244742651
+Klebsiella pneumoniae,Amikacin,Benin,0.6673531010296153
+Klebsiella pneumoniae,Amikacin,Burkina Faso,0.4069498674110671
+Klebsiella pneumoniae,Amikacin,Ivory Coast,0.8850756666000275
+Klebsiella pneumoniae,Amikacin,Ghana,0.8057550151654603
+Klebsiella pneumoniae,Amikacin,Mali,0.28001715943200783
+Klebsiella pneumoniae,Amikacin,Nigeria,0.44122449825281274
+Klebsiella pneumoniae,Amikacin,Senegal,0.517229012673885
+Klebsiella pneumoniae,Amikacin,Togo,0.1660184925776294
+Klebsiella pneumoniae,Tobramycin,Benin,0.10030457329349654
+Klebsiella pneumoniae,Tobramycin,Burkina Faso,0.5450057923789294
+Klebsiella pneumoniae,Tobramycin,Ivory Coast,0.6668366156608865
+Klebsiella pneumoniae,Tobramycin,Ghana,0.3808601606516161
+Klebsiella pneumoniae,Tobramycin,Mali,0.3343317028485705
+Klebsiella pneumoniae,Tobramycin,Nigeria,0.1764124919033935
+Klebsiella pneumoniae,Tobramycin,Senegal,0.6294868814491289
+Klebsiella pneumoniae,Tobramycin,Togo,0.15503484352378694
+Klebsiella pneumoniae,Trimethoprim/Sulfamethoxazole,Benin,0.20327279480294866
+Klebsiella pneumoniae,Trimethoprim/Sulfamethoxazole,Burkina Faso,0.6421606691779469
+Klebsiella pneumoniae,Trimethoprim/Sulfamethoxazole,Ivory Coast,0.3735715384865952
+Klebsiella pneumoniae,Trimethoprim/Sulfamethoxazole,Ghana,0.30174233625891245
+Klebsiella pneumoniae,Trimethoprim/Sulfamethoxazole,Mali,0.47790103702327746
+Klebsiella pneumoniae,Trimethoprim/Sulfamethoxazole,Nigeria,0.16491322880963413
+Klebsiella pneumoniae,Trimethoprim/Sulfamethoxazole,Senegal,0.5634572342805043
+Klebsiella pneumoniae,Trimethoprim/Sulfamethoxazole,Togo,0.4355981758190791
+Klebsiella pneumoniae,Tetracycline,Benin,0.8372942705312578
+Klebsiella pneumoniae,Tetracycline,Burkina Faso,0.3902970192597316
+Klebsiella pneumoniae,Tetracycline,Ivory Coast,0.4776569833632559
+Klebsiella pneumoniae,Tetracycline,Ghana,0.36921668368365845
+Klebsiella pneumoniae,Tetracycline,Mali,0.2948766906562956
+Klebsiella pneumoniae,Tetracycline,Nigeria,0.8413726775200487
+Klebsiella pneumoniae,Tetracycline,Senegal,0.4685813215452792
+Klebsiella pneumoniae,Tetracycline,Togo,0.7145270946385199
+Klebsiella pneumoniae,Doxycycline,Benin,0.7651651750207059
+Klebsiella pneumoniae,Doxycycline,Burkina Faso,0.8839897939272555
+Klebsiella pneumoniae,Doxycycline,Ivory Coast,0.7134273919434005
+Klebsiella pneumoniae,Doxycycline,Ghana,0.6787495287447255
+Klebsiella pneumoniae,Doxycycline,Mali,0.8182060124687359
+Klebsiella pneumoniae,Doxycycline,Nigeria,0.8581440786702671
+Klebsiella pneumoniae,Doxycycline,Senegal,0.299433345250386
+Klebsiella pneumoniae,Doxycycline,Togo,0.49898430330426136
+Klebsiella pneumoniae,Clindamycin,Benin,0.2622662185976502
+Klebsiella pneumoniae,Clindamycin,Burkina Faso,0.5106416111747262
+Klebsiella pneumoniae,Clindamycin,Ivory Coast,0.1362490998827159
+Klebsiella pneumoniae,Clindamycin,Ghana,0.14331622040069014
+Klebsiella pneumoniae,Clindamycin,Mali,0.3813501108252567
+Klebsiella pneumoniae,Clindamycin,Nigeria,0.7511382129776322
+Klebsiella pneumoniae,Clindamycin,Senegal,0.6737265585175348
+Klebsiella pneumoniae,Clindamycin,Togo,0.4893455098264822
+Klebsiella pneumoniae,Erythromycin,Benin,0.3066556852119138
+Klebsiella pneumoniae,Erythromycin,Burkina Faso,0.5043584032825177
+Klebsiella pneumoniae,Erythromycin,Ivory Coast,0.6988522923909068
+Klebsiella pneumoniae,Erythromycin,Ghana,0.896817346308031
+Klebsiella pneumoniae,Erythromycin,Mali,0.599067833371923
+Klebsiella pneumoniae,Erythromycin,Nigeria,0.6448683784303484
+Klebsiella pneumoniae,Erythromycin,Senegal,0.11165240424015499
+Klebsiella pneumoniae,Erythromycin,Togo,0.8945585841996634
+Klebsiella pneumoniae,Linezolid,Benin,0.7073962841345467
+Klebsiella pneumoniae,Linezolid,Burkina Faso,0.773412332533291
+Klebsiella pneumoniae,Linezolid,Ivory Coast,0.2627227387489882
+Klebsiella pneumoniae,Linezolid,Ghana,0.415073650370398
+Klebsiella pneumoniae,Linezolid,Mali,0.1805592385362952
+Klebsiella pneumoniae,Linezolid,Nigeria,0.7608402710819168
+Klebsiella pneumoniae,Linezolid,Senegal,0.581371364610602
+Klebsiella pneumoniae,Linezolid,Togo,0.5334796029261774
+Klebsiella pneumoniae,Vancomycin,Benin,0.30102572053319304
+Klebsiella pneumoniae,Vancomycin,Burkina Faso,0.6071621116888487
+Klebsiella pneumoniae,Vancomycin,Ivory Coast,0.47122717598867636
+Klebsiella pneumoniae,Vancomycin,Ghana,0.6530758222170108
+Klebsiella pneumoniae,Vancomycin,Mali,0.18855794254584524
+Klebsiella pneumoniae,Vancomycin,Nigeria,0.40477906228966
+Klebsiella pneumoniae,Vancomycin,Senegal,0.4564244667914613
+Klebsiella pneumoniae,Vancomycin,Togo,0.6196829404276325
+Klebsiella pneumoniae,Piperacillin/Tazobactam,Benin,0.6582398214643349
+Klebsiella pneumoniae,Piperacillin/Tazobactam,Burkina Faso,0.2526130047269886
+Klebsiella pneumoniae,Piperacillin/Tazobactam,Ivory Coast,0.40982531920600074
+Klebsiella pneumoniae,Piperacillin/Tazobactam,Ghana,0.40178828311094816
+Klebsiella pneumoniae,Piperacillin/Tazobactam,Mali,0.6112686840940795
+Klebsiella pneumoniae,Piperacillin/Tazobactam,Nigeria,0.5892581886600887
+Klebsiella pneumoniae,Piperacillin/Tazobactam,Senegal,0.3732726110519321
+Klebsiella pneumoniae,Piperacillin/Tazobactam,Togo,0.7040688316427962
+Klebsiella pneumoniae,Nitrofurantoin,Benin,0.6484780784663831
+Klebsiella pneumoniae,Nitrofurantoin,Burkina Faso,0.510553798425204
+Klebsiella pneumoniae,Nitrofurantoin,Ivory Coast,0.6426418309473193
+Klebsiella pneumoniae,Nitrofurantoin,Ghana,0.6564806363287217
+Klebsiella pneumoniae,Nitrofurantoin,Mali,0.44443986693898985
+Klebsiella pneumoniae,Nitrofurantoin,Nigeria,0.3707502332861904
+Klebsiella pneumoniae,Nitrofurantoin,Senegal,0.5835552737237902
+Klebsiella pneumoniae,Nitrofurantoin,Togo,0.2292867373463146
+Acinetobacter baumannii,Amoxicillin/Clavulanate,Benin,0.8288047665040936
+Acinetobacter baumannii,Amoxicillin/Clavulanate,Burkina Faso,0.485744111553743
+Acinetobacter baumannii,Amoxicillin/Clavulanate,Ivory Coast,0.22799213696766396
+Acinetobacter baumannii,Amoxicillin/Clavulanate,Ghana,0.7166295767293467
+Acinetobacter baumannii,Amoxicillin/Clavulanate,Mali,0.5131425801702302
+Acinetobacter baumannii,Amoxicillin/Clavulanate,Nigeria,0.12275043310870998
+Acinetobacter baumannii,Amoxicillin/Clavulanate,Senegal,0.4779470962495751
+Acinetobacter baumannii,Amoxicillin/Clavulanate,Togo,0.8689947628863068
+Acinetobacter baumannii,Ampicillin,Benin,0.8705188033440542
+Acinetobacter baumannii,Ampicillin,Burkina Faso,0.7766852539086438
+Acinetobacter baumannii,Ampicillin,Ivory Coast,0.6706705581153777
+Acinetobacter baumannii,Ampicillin,Ghana,0.6031200206423862
+Acinetobacter baumannii,Ampicillin,Mali,0.4949716083205413
+Acinetobacter baumannii,Ampicillin,Nigeria,0.46389280116177545
+Acinetobacter baumannii,Ampicillin,Senegal,0.6988408321450691
+Acinetobacter baumannii,Ampicillin,Togo,0.4272994478742803
+Acinetobacter baumannii,Ceftriaxone,Benin,0.579541629815065
+Acinetobacter baumannii,Ceftriaxone,Burkina Faso,0.2269763871089272
+Acinetobacter baumannii,Ceftriaxone,Ivory Coast,0.7601376232934604
+Acinetobacter baumannii,Ceftriaxone,Ghana,0.241155488488475
+Acinetobacter baumannii,Ceftriaxone,Mali,0.8820426244847044
+Acinetobacter baumannii,Ceftriaxone,Nigeria,0.3548442647262825
+Acinetobacter baumannii,Ceftriaxone,Senegal,0.6667052870597046
+Acinetobacter baumannii,Ceftriaxone,Togo,0.16383528461918556
+Acinetobacter baumannii,Ceftazidime,Benin,0.723685838597756
+Acinetobacter baumannii,Ceftazidime,Burkina Faso,0.374402869519998
+Acinetobacter baumannii,Ceftazidime,Ivory Coast,0.7608870187253775
+Acinetobacter baumannii,Ceftazidime,Ghana,0.8541511347271613
+Acinetobacter baumannii,Ceftazidime,Mali,0.16962477636536724
+Acinetobacter baumannii,Ceftazidime,Nigeria,0.62143803631322
+Acinetobacter baumannii,Ceftazidime,Senegal,0.7341723966273194
+Acinetobacter baumannii,Ceftazidime,Togo,0.5983227592987805
+Acinetobacter baumannii,Cefotaxime,Benin,0.88948154502622
+Acinetobacter baumannii,Cefotaxime,Burkina Faso,0.37293739204026577
+Acinetobacter baumannii,Cefotaxime,Ivory Coast,0.7945555540753858
+Acinetobacter baumannii,Cefotaxime,Ghana,0.46344843903274324
+Acinetobacter baumannii,Cefotaxime,Mali,0.1535111004565306
+Acinetobacter baumannii,Cefotaxime,Nigeria,0.7645153390259368
+Acinetobacter baumannii,Cefotaxime,Senegal,0.8915692947672982
+Acinetobacter baumannii,Cefotaxime,Togo,0.16957132208164244
+Acinetobacter baumannii,Cefepime,Benin,0.4627371459380717
+Acinetobacter baumannii,Cefepime,Burkina Faso,0.47286263743481516
+Acinetobacter baumannii,Cefepime,Ivory Coast,0.6265481206161199
+Acinetobacter baumannii,Cefepime,Ghana,0.32770863046562565
+Acinetobacter baumannii,Cefepime,Mali,0.26180938219445893
+Acinetobacter baumannii,Cefepime,Nigeria,0.7977082658385316
+Acinetobacter baumannii,Cefepime,Senegal,0.14379163123184224
+Acinetobacter baumannii,Cefepime,Togo,0.6723367717705393
+Acinetobacter baumannii,Imipenem,Benin,0.6080583784088754
+Acinetobacter baumannii,Imipenem,Burkina Faso,0.7879221614666327
+Acinetobacter baumannii,Imipenem,Ivory Coast,0.3800208493762326
+Acinetobacter baumannii,Imipenem,Ghana,0.8694041615494289
+Acinetobacter baumannii,Imipenem,Mali,0.16820560843684718
+Acinetobacter baumannii,Imipenem,Nigeria,0.6230275964954479
+Acinetobacter baumannii,Imipenem,Senegal,0.4217657861823001
+Acinetobacter baumannii,Imipenem,Togo,0.4526670272998442
+Acinetobacter baumannii,Meropenem,Benin,0.7927900031705558
+Acinetobacter baumannii,Meropenem,Burkina Faso,0.22606092034414013
+Acinetobacter baumannii,Meropenem,Ivory Coast,0.4287447320190164
+Acinetobacter baumannii,Meropenem,Ghana,0.7431690190830865
+Acinetobacter baumannii,Meropenem,Mali,0.44731244997147135
+Acinetobacter baumannii,Meropenem,Nigeria,0.655108916038907
+Acinetobacter baumannii,Meropenem,Senegal,0.4772236397688042
+Acinetobacter baumannii,Meropenem,Togo,0.18991846444535077
+Acinetobacter baumannii,Ertapenem,Benin,0.11141609058823061
+Acinetobacter baumannii,Ertapenem,Burkina Faso,0.2494938929474514
+Acinetobacter baumannii,Ertapenem,Ivory Coast,0.39952689092605176
+Acinetobacter baumannii,Ertapenem,Ghana,0.8688632756126509
+Acinetobacter baumannii,Ertapenem,Mali,0.7277056001644898
+Acinetobacter baumannii,Ertapenem,Nigeria,0.469171875776896
+Acinetobacter baumannii,Ertapenem,Senegal,0.2779607519049764
+Acinetobacter baumannii,Ertapenem,Togo,0.4553344867807747
+Acinetobacter baumannii,Ciprofloxacin,Benin,0.5782074506017082
+Acinetobacter baumannii,Ciprofloxacin,Burkina Faso,0.2253441283324129
+Acinetobacter baumannii,Ciprofloxacin,Ivory Coast,0.10433070605738406
+Acinetobacter baumannii,Ciprofloxacin,Ghana,0.19108160108919892
+Acinetobacter baumannii,Ciprofloxacin,Mali,0.6941300126165881
+Acinetobacter baumannii,Ciprofloxacin,Nigeria,0.6115640037002154
+Acinetobacter baumannii,Ciprofloxacin,Senegal,0.7542124485359772
+Acinetobacter baumannii,Ciprofloxacin,Togo,0.8729100873672041
+Acinetobacter baumannii,Levofloxacin,Benin,0.30471557945874794
+Acinetobacter baumannii,Levofloxacin,Burkina Faso,0.5637197215837976
+Acinetobacter baumannii,Levofloxacin,Ivory Coast,0.6924983436433799
+Acinetobacter baumannii,Levofloxacin,Ghana,0.8863806944075004
+Acinetobacter baumannii,Levofloxacin,Mali,0.6778905820804327
+Acinetobacter baumannii,Levofloxacin,Nigeria,0.47420342116719894
+Acinetobacter baumannii,Levofloxacin,Senegal,0.8129887524139375
+Acinetobacter baumannii,Levofloxacin,Togo,0.8798960026398219
+Acinetobacter baumannii,Gentamicin,Benin,0.38230354126387156
+Acinetobacter baumannii,Gentamicin,Burkina Faso,0.6091074839802553
+Acinetobacter baumannii,Gentamicin,Ivory Coast,0.1504442568981541
+Acinetobacter baumannii,Gentamicin,Ghana,0.41532693981163915
+Acinetobacter baumannii,Gentamicin,Mali,0.4962825605368463
+Acinetobacter baumannii,Gentamicin,Nigeria,0.6896573743728098
+Acinetobacter baumannii,Gentamicin,Senegal,0.22305505209553023
+Acinetobacter baumannii,Gentamicin,Togo,0.3914923408057306
+Acinetobacter baumannii,Amikacin,Benin,0.7085336487366843
+Acinetobacter baumannii,Amikacin,Burkina Faso,0.5791430478610481
+Acinetobacter baumannii,Amikacin,Ivory Coast,0.7738517778490317
+Acinetobacter baumannii,Amikacin,Ghana,0.8419290616054907
+Acinetobacter baumannii,Amikacin,Mali,0.8621150618441616
+Acinetobacter baumannii,Amikacin,Nigeria,0.45895126400569985
+Acinetobacter baumannii,Amikacin,Senegal,0.5533045404486608
+Acinetobacter baumannii,Amikacin,Togo,0.35647117447043286
+Acinetobacter baumannii,Tobramycin,Benin,0.24391204933897193
+Acinetobacter baumannii,Tobramycin,Burkina Faso,0.17766371381141577
+Acinetobacter baumannii,Tobramycin,Ivory Coast,0.19172119972551896
+Acinetobacter baumannii,Tobramycin,Ghana,0.21337008771985141
+Acinetobacter baumannii,Tobramycin,Mali,0.25768860234581925
+Acinetobacter baumannii,Tobramycin,Nigeria,0.14291561998058644
+Acinetobacter baumannii,Tobramycin,Senegal,0.7822956491415728
+Acinetobacter baumannii,Tobramycin,Togo,0.3200735416971041
+Acinetobacter baumannii,Trimethoprim/Sulfamethoxazole,Benin,0.8727924677446209
+Acinetobacter baumannii,Trimethoprim/Sulfamethoxazole,Burkina Faso,0.33307863909781277
+Acinetobacter baumannii,Trimethoprim/Sulfamethoxazole,Ivory Coast,0.21399958920715215
+Acinetobacter baumannii,Trimethoprim/Sulfamethoxazole,Ghana,0.10777417137960708
+Acinetobacter baumannii,Trimethoprim/Sulfamethoxazole,Mali,0.5843496886240713
+Acinetobacter baumannii,Trimethoprim/Sulfamethoxazole,Nigeria,0.19209427201017545
+Acinetobacter baumannii,Trimethoprim/Sulfamethoxazole,Senegal,0.32961583849193304
+Acinetobacter baumannii,Trimethoprim/Sulfamethoxazole,Togo,0.4924269890846291
+Acinetobacter baumannii,Tetracycline,Benin,0.7728613276230808
+Acinetobacter baumannii,Tetracycline,Burkina Faso,0.12832058806187607
+Acinetobacter baumannii,Tetracycline,Ivory Coast,0.7948411660063222
+Acinetobacter baumannii,Tetracycline,Ghana,0.6587032770143897
+Acinetobacter baumannii,Tetracycline,Mali,0.37030611577571015
+Acinetobacter baumannii,Tetracycline,Nigeria,0.624957769585382
+Acinetobacter baumannii,Tetracycline,Senegal,0.26703833057752246
+Acinetobacter baumannii,Tetracycline,Togo,0.2711179513148543
+Acinetobacter baumannii,Doxycycline,Benin,0.2419357122177993
+Acinetobacter baumannii,Doxycycline,Burkina Faso,0.2423134004898791
+Acinetobacter baumannii,Doxycycline,Ivory Coast,0.45329976635813407
+Acinetobacter baumannii,Doxycycline,Ghana,0.1460181826634167
+Acinetobacter baumannii,Doxycycline,Mali,0.7298672034158339
+Acinetobacter baumannii,Doxycycline,Nigeria,0.28192071293112414
+Acinetobacter baumannii,Doxycycline,Senegal,0.16629535374292673
+Acinetobacter baumannii,Doxycycline,Togo,0.7608531876232001
+Acinetobacter baumannii,Clindamycin,Benin,0.5951995188435092
+Acinetobacter baumannii,Clindamycin,Burkina Faso,0.1526558544382618
+Acinetobacter baumannii,Clindamycin,Ivory Coast,0.6223131475670406
+Acinetobacter baumannii,Clindamycin,Ghana,0.11618853193296932
+Acinetobacter baumannii,Clindamycin,Mali,0.43183572332259723
+Acinetobacter baumannii,Clindamycin,Nigeria,0.5437283087109948
+Acinetobacter baumannii,Clindamycin,Senegal,0.7954611793772178
+Acinetobacter baumannii,Clindamycin,Togo,0.3091219490926733
+Acinetobacter baumannii,Erythromycin,Benin,0.4772048821567324
+Acinetobacter baumannii,Erythromycin,Burkina Faso,0.5193095318624412
+Acinetobacter baumannii,Erythromycin,Ivory Coast,0.676927049548363
+Acinetobacter baumannii,Erythromycin,Ghana,0.2970100234625517
+Acinetobacter baumannii,Erythromycin,Mali,0.2309703629740846
+Acinetobacter baumannii,Erythromycin,Nigeria,0.8073702816475895
+Acinetobacter baumannii,Erythromycin,Senegal,0.40871307571196025
+Acinetobacter baumannii,Erythromycin,Togo,0.8348896445385213
+Acinetobacter baumannii,Linezolid,Benin,0.138643083209241
+Acinetobacter baumannii,Linezolid,Burkina Faso,0.2539208629594245
+Acinetobacter baumannii,Linezolid,Ivory Coast,0.44181851419931906
+Acinetobacter baumannii,Linezolid,Ghana,0.7562439826356724
+Acinetobacter baumannii,Linezolid,Mali,0.6575531064257343
+Acinetobacter baumannii,Linezolid,Nigeria,0.10094373324687203
+Acinetobacter baumannii,Linezolid,Senegal,0.20716928134707002
+Acinetobacter baumannii,Linezolid,Togo,0.41091743510211376
+Acinetobacter baumannii,Vancomycin,Benin,0.2202966480976737
+Acinetobacter baumannii,Vancomycin,Burkina Faso,0.5418281969895195
+Acinetobacter baumannii,Vancomycin,Ivory Coast,0.4375047010674725
+Acinetobacter baumannii,Vancomycin,Ghana,0.12639818135964287
+Acinetobacter baumannii,Vancomycin,Mali,0.8158926877310655
+Acinetobacter baumannii,Vancomycin,Nigeria,0.8068321312364669
+Acinetobacter baumannii,Vancomycin,Senegal,0.8197218668741961
+Acinetobacter baumannii,Vancomycin,Togo,0.18933627665771235
+Acinetobacter baumannii,Piperacillin/Tazobactam,Benin,0.1254922090358763
+Acinetobacter baumannii,Piperacillin/Tazobactam,Burkina Faso,0.7447061022286937
+Acinetobacter baumannii,Piperacillin/Tazobactam,Ivory Coast,0.26565841685561004
+Acinetobacter baumannii,Piperacillin/Tazobactam,Ghana,0.23991090791990397
+Acinetobacter baumannii,Piperacillin/Tazobactam,Mali,0.7327279611566727
+Acinetobacter baumannii,Piperacillin/Tazobactam,Nigeria,0.26534200177855316
+Acinetobacter baumannii,Piperacillin/Tazobactam,Senegal,0.7086912975857111
+Acinetobacter baumannii,Piperacillin/Tazobactam,Togo,0.5050156914987267
+Acinetobacter baumannii,Nitrofurantoin,Benin,0.6584681022125652
+Acinetobacter baumannii,Nitrofurantoin,Burkina Faso,0.49441645722026584
+Acinetobacter baumannii,Nitrofurantoin,Ivory Coast,0.8536110167191787
+Acinetobacter baumannii,Nitrofurantoin,Ghana,0.8709126245028678
+Acinetobacter baumannii,Nitrofurantoin,Mali,0.7486537657060361
+Acinetobacter baumannii,Nitrofurantoin,Nigeria,0.5263791153274741
+Acinetobacter baumannii,Nitrofurantoin,Senegal,0.25983444965545505
+Acinetobacter baumannii,Nitrofurantoin,Togo,0.22729213281183994
+Pseudomonas aeruginosa,Amoxicillin/Clavulanate,Benin,0.6143702898597571
+Pseudomonas aeruginosa,Amoxicillin/Clavulanate,Burkina Faso,0.5167207705323581
+Pseudomonas aeruginosa,Amoxicillin/Clavulanate,Ivory Coast,0.31979202625326214
+Pseudomonas aeruginosa,Amoxicillin/Clavulanate,Ghana,0.8062898353493575
+Pseudomonas aeruginosa,Amoxicillin/Clavulanate,Mali,0.3267782614245237
+Pseudomonas aeruginosa,Amoxicillin/Clavulanate,Nigeria,0.5998642953043279
+Pseudomonas aeruginosa,Amoxicillin/Clavulanate,Senegal,0.21597493278906682
+Pseudomonas aeruginosa,Amoxicillin/Clavulanate,Togo,0.12459635389751417
+Pseudomonas aeruginosa,Ampicillin,Benin,0.893185212691402
+Pseudomonas aeruginosa,Ampicillin,Burkina Faso,0.2063436261291674
+Pseudomonas aeruginosa,Ampicillin,Ivory Coast,0.4523949134874826
+Pseudomonas aeruginosa,Ampicillin,Ghana,0.38120528248618735
+Pseudomonas aeruginosa,Ampicillin,Mali,0.19847317926445796
+Pseudomonas aeruginosa,Ampicillin,Nigeria,0.4821353267868166
+Pseudomonas aeruginosa,Ampicillin,Senegal,0.496211105384902
+Pseudomonas aeruginosa,Ampicillin,Togo,0.2571002756576182
+Pseudomonas aeruginosa,Ceftriaxone,Benin,0.7860807691341003
+Pseudomonas aeruginosa,Ceftriaxone,Burkina Faso,0.47274687025579887
+Pseudomonas aeruginosa,Ceftriaxone,Ivory Coast,0.8961613193735093
+Pseudomonas aeruginosa,Ceftriaxone,Ghana,0.2233407855928821
+Pseudomonas aeruginosa,Ceftriaxone,Mali,0.2414031199584092
+Pseudomonas aeruginosa,Ceftriaxone,Nigeria,0.7355312376612152
+Pseudomonas aeruginosa,Ceftriaxone,Senegal,0.8757107806708045
+Pseudomonas aeruginosa,Ceftriaxone,Togo,0.5025605618571322
+Pseudomonas aeruginosa,Ceftazidime,Benin,0.11820885309506571
+Pseudomonas aeruginosa,Ceftazidime,Burkina Faso,0.5672746682376122
+Pseudomonas aeruginosa,Ceftazidime,Ivory Coast,0.2973072130024466
+Pseudomonas aeruginosa,Ceftazidime,Ghana,0.6779120290217983
+Pseudomonas aeruginosa,Ceftazidime,Mali,0.40463209948771417
+Pseudomonas aeruginosa,Ceftazidime,Nigeria,0.3030636523396554
+Pseudomonas aeruginosa,Ceftazidime,Senegal,0.6334745081234355
+Pseudomonas aeruginosa,Ceftazidime,Togo,0.31803680370248727
+Pseudomonas aeruginosa,Cefotaxime,Benin,0.7664747526077854
+Pseudomonas aeruginosa,Cefotaxime,Burkina Faso,0.6263242177282156
+Pseudomonas aeruginosa,Cefotaxime,Ivory Coast,0.2147993978059235
+Pseudomonas aeruginosa,Cefotaxime,Ghana,0.45223071403634096
+Pseudomonas aeruginosa,Cefotaxime,Mali,0.271586647813168
+Pseudomonas aeruginosa,Cefotaxime,Nigeria,0.18999457352437982
+Pseudomonas aeruginosa,Cefotaxime,Senegal,0.7066653804213335
+Pseudomonas aeruginosa,Cefotaxime,Togo,0.33686550542563465
+Pseudomonas aeruginosa,Cefepime,Benin,0.7852654701414101
+Pseudomonas aeruginosa,Cefepime,Burkina Faso,0.48025693588891827
+Pseudomonas aeruginosa,Cefepime,Ivory Coast,0.18462388880726383
+Pseudomonas aeruginosa,Cefepime,Ghana,0.3426992976957875
+Pseudomonas aeruginosa,Cefepime,Mali,0.3388000180457447
+Pseudomonas aeruginosa,Cefepime,Nigeria,0.8161139639104384
+Pseudomonas aeruginosa,Cefepime,Senegal,0.7375732349346408
+Pseudomonas aeruginosa,Cefepime,Togo,0.5108510807972374
+Pseudomonas aeruginosa,Imipenem,Benin,0.3475041373708111
+Pseudomonas aeruginosa,Imipenem,Burkina Faso,0.5046819477746503
+Pseudomonas aeruginosa,Imipenem,Ivory Coast,0.7331026795432843
+Pseudomonas aeruginosa,Imipenem,Ghana,0.1915124944736941
+Pseudomonas aeruginosa,Imipenem,Mali,0.26585322695911073
+Pseudomonas aeruginosa,Imipenem,Nigeria,0.11147137433979265
+Pseudomonas aeruginosa,Imipenem,Senegal,0.12689648387455252
+Pseudomonas aeruginosa,Imipenem,Togo,0.35257090783459055
+Pseudomonas aeruginosa,Meropenem,Benin,0.10831897660055256
+Pseudomonas aeruginosa,Meropenem,Burkina Faso,0.48411739186363645
+Pseudomonas aeruginosa,Meropenem,Ivory Coast,0.8124235783166732
+Pseudomonas aeruginosa,Meropenem,Ghana,0.4077962872135603
+Pseudomonas aeruginosa,Meropenem,Mali,0.6190518506668706
+Pseudomonas aeruginosa,Meropenem,Nigeria,0.8861782479930435
+Pseudomonas aeruginosa,Meropenem,Senegal,0.7895142493491757
+Pseudomonas aeruginosa,Meropenem,Togo,0.3173371635731049
+Pseudomonas aeruginosa,Ertapenem,Benin,0.34350200166703615
+Pseudomonas aeruginosa,Ertapenem,Burkina Faso,0.13942970851827052
+Pseudomonas aeruginosa,Ertapenem,Ivory Coast,0.8298327809835729
+Pseudomonas aeruginosa,Ertapenem,Ghana,0.7487242833752609
+Pseudomonas aeruginosa,Ertapenem,Mali,0.846369010893916
+Pseudomonas aeruginosa,Ertapenem,Nigeria,0.7992393227683643
+Pseudomonas aeruginosa,Ertapenem,Senegal,0.7033835957574606
+Pseudomonas aeruginosa,Ertapenem,Togo,0.5784163743967341
+Pseudomonas aeruginosa,Ciprofloxacin,Benin,0.6961653389341278
+Pseudomonas aeruginosa,Ciprofloxacin,Burkina Faso,0.4069830635110607
+Pseudomonas aeruginosa,Ciprofloxacin,Ivory Coast,0.5675960897519016
+Pseudomonas aeruginosa,Ciprofloxacin,Ghana,0.5102482951610297
+Pseudomonas aeruginosa,Ciprofloxacin,Mali,0.7615326726699844
+Pseudomonas aeruginosa,Ciprofloxacin,Nigeria,0.16439107852661605
+Pseudomonas aeruginosa,Ciprofloxacin,Senegal,0.6601687677748848
+Pseudomonas aeruginosa,Ciprofloxacin,Togo,0.503550949528397
+Pseudomonas aeruginosa,Levofloxacin,Benin,0.3653625032626352
+Pseudomonas aeruginosa,Levofloxacin,Burkina Faso,0.2924351125827891
+Pseudomonas aeruginosa,Levofloxacin,Ivory Coast,0.34440757902416863
+Pseudomonas aeruginosa,Levofloxacin,Ghana,0.7356379119513398
+Pseudomonas aeruginosa,Levofloxacin,Mali,0.1499268751037673
+Pseudomonas aeruginosa,Levofloxacin,Nigeria,0.546959697193589
+Pseudomonas aeruginosa,Levofloxacin,Senegal,0.19363056399260403
+Pseudomonas aeruginosa,Levofloxacin,Togo,0.7930446140993451
+Pseudomonas aeruginosa,Gentamicin,Benin,0.21135214706363004
+Pseudomonas aeruginosa,Gentamicin,Burkina Faso,0.4691446605573316
+Pseudomonas aeruginosa,Gentamicin,Ivory Coast,0.6526571597033302
+Pseudomonas aeruginosa,Gentamicin,Ghana,0.697519679410676
+Pseudomonas aeruginosa,Gentamicin,Mali,0.589665569075281
+Pseudomonas aeruginosa,Gentamicin,Nigeria,0.7113737484126818
+Pseudomonas aeruginosa,Gentamicin,Senegal,0.6845347531184746
+Pseudomonas aeruginosa,Gentamicin,Togo,0.7499893100219122
+Pseudomonas aeruginosa,Amikacin,Benin,0.15255513373130178
+Pseudomonas aeruginosa,Amikacin,Burkina Faso,0.4398184782738349
+Pseudomonas aeruginosa,Amikacin,Ivory Coast,0.6159830805984847
+Pseudomonas aeruginosa,Amikacin,Ghana,0.5057476383772647
+Pseudomonas aeruginosa,Amikacin,Mali,0.5498379610651177
+Pseudomonas aeruginosa,Amikacin,Nigeria,0.633690301448739
+Pseudomonas aeruginosa,Amikacin,Senegal,0.5973764218964511
+Pseudomonas aeruginosa,Amikacin,Togo,0.12148999219224406
+Pseudomonas aeruginosa,Tobramycin,Benin,0.803472536141768
+Pseudomonas aeruginosa,Tobramycin,Burkina Faso,0.66062911414425
+Pseudomonas aeruginosa,Tobramycin,Ivory Coast,0.665284143720106
+Pseudomonas aeruginosa,Tobramycin,Ghana,0.581378189829427
+Pseudomonas aeruginosa,Tobramycin,Mali,0.12110954051114114
+Pseudomonas aeruginosa,Tobramycin,Nigeria,0.8949665432279568
+Pseudomonas aeruginosa,Tobramycin,Senegal,0.795776653649938
+Pseudomonas aeruginosa,Tobramycin,Togo,0.2029723374734867
+Pseudomonas aeruginosa,Trimethoprim/Sulfamethoxazole,Benin,0.2616552207362678
+Pseudomonas aeruginosa,Trimethoprim/Sulfamethoxazole,Burkina Faso,0.8186216881006483
+Pseudomonas aeruginosa,Trimethoprim/Sulfamethoxazole,Ivory Coast,0.7942326191002959
+Pseudomonas aeruginosa,Trimethoprim/Sulfamethoxazole,Ghana,0.6769089645160761
+Pseudomonas aeruginosa,Trimethoprim/Sulfamethoxazole,Mali,0.8688182459836521
+Pseudomonas aeruginosa,Trimethoprim/Sulfamethoxazole,Nigeria,0.4174589489964984
+Pseudomonas aeruginosa,Trimethoprim/Sulfamethoxazole,Senegal,0.6184698018298287
+Pseudomonas aeruginosa,Trimethoprim/Sulfamethoxazole,Togo,0.7518157931818084
+Pseudomonas aeruginosa,Tetracycline,Benin,0.827526519393733
+Pseudomonas aeruginosa,Tetracycline,Burkina Faso,0.777428983205336
+Pseudomonas aeruginosa,Tetracycline,Ivory Coast,0.23756616323099344
+Pseudomonas aeruginosa,Tetracycline,Ghana,0.48226674946266346
+Pseudomonas aeruginosa,Tetracycline,Mali,0.5312550956921473
+Pseudomonas aeruginosa,Tetracycline,Nigeria,0.3799898890981134
+Pseudomonas aeruginosa,Tetracycline,Senegal,0.6432585855060495
+Pseudomonas aeruginosa,Tetracycline,Togo,0.5968382152814024
+Pseudomonas aeruginosa,Doxycycline,Benin,0.41297237568792267
+Pseudomonas aeruginosa,Doxycycline,Burkina Faso,0.22739676276720122
+Pseudomonas aeruginosa,Doxycycline,Ivory Coast,0.7374766125307031
+Pseudomonas aeruginosa,Doxycycline,Ghana,0.11609755996241491
+Pseudomonas aeruginosa,Doxycycline,Mali,0.6995845608416636
+Pseudomonas aeruginosa,Doxycycline,Nigeria,0.37998821149863793
+Pseudomonas aeruginosa,Doxycycline,Senegal,0.8861612413532625
+Pseudomonas aeruginosa,Doxycycline,Togo,0.4849616099378057
+Pseudomonas aeruginosa,Clindamycin,Benin,0.48200227077579283
+Pseudomonas aeruginosa,Clindamycin,Burkina Faso,0.4529309352101486
+Pseudomonas aeruginosa,Clindamycin,Ivory Coast,0.10872904007470963
+Pseudomonas aeruginosa,Clindamycin,Ghana,0.49105702640570636
+Pseudomonas aeruginosa,Clindamycin,Mali,0.6765203361925647
+Pseudomonas aeruginosa,Clindamycin,Nigeria,0.3523760648388462
+Pseudomonas aeruginosa,Clindamycin,Senegal,0.24603843974453127
+Pseudomonas aeruginosa,Clindamycin,Togo,0.6342840125002829
+Pseudomonas aeruginosa,Erythromycin,Benin,0.676972648147974
+Pseudomonas aeruginosa,Erythromycin,Burkina Faso,0.33578033528702617
+Pseudomonas aeruginosa,Erythromycin,Ivory Coast,0.7283542315588408
+Pseudomonas aeruginosa,Erythromycin,Ghana,0.8606068111712587
+Pseudomonas aeruginosa,Erythromycin,Mali,0.2500337509238767
+Pseudomonas aeruginosa,Erythromycin,Nigeria,0.2264795024070283
+Pseudomonas aeruginosa,Erythromycin,Senegal,0.854313375914311
+Pseudomonas aeruginosa,Erythromycin,Togo,0.8501979784463795
+Pseudomonas aeruginosa,Linezolid,Benin,0.8097960749377829
+Pseudomonas aeruginosa,Linezolid,Burkina Faso,0.6619946328843612
+Pseudomonas aeruginosa,Linezolid,Ivory Coast,0.8441674968389806
+Pseudomonas aeruginosa,Linezolid,Ghana,0.5073817366846377
+Pseudomonas aeruginosa,Linezolid,Mali,0.31250182393444154
+Pseudomonas aeruginosa,Linezolid,Nigeria,0.45033872803308805
+Pseudomonas aeruginosa,Linezolid,Senegal,0.12338246999365188
+Pseudomonas aeruginosa,Linezolid,Togo,0.7924348663855587
+Pseudomonas aeruginosa,Vancomycin,Benin,0.684232531523018
+Pseudomonas aeruginosa,Vancomycin,Burkina Faso,0.13085409938660694
+Pseudomonas aeruginosa,Vancomycin,Ivory Coast,0.4641299352801088
+Pseudomonas aeruginosa,Vancomycin,Ghana,0.5993023761480317
+Pseudomonas aeruginosa,Vancomycin,Mali,0.8446336212834707
+Pseudomonas aeruginosa,Vancomycin,Nigeria,0.133636069139801
+Pseudomonas aeruginosa,Vancomycin,Senegal,0.3650259284118258
+Pseudomonas aeruginosa,Vancomycin,Togo,0.1558699779982626
+Pseudomonas aeruginosa,Piperacillin/Tazobactam,Benin,0.7703166043036352
+Pseudomonas aeruginosa,Piperacillin/Tazobactam,Burkina Faso,0.8115346540788027
+Pseudomonas aeruginosa,Piperacillin/Tazobactam,Ivory Coast,0.32962571928245776
+Pseudomonas aeruginosa,Piperacillin/Tazobactam,Ghana,0.1950842574498781
+Pseudomonas aeruginosa,Piperacillin/Tazobactam,Mali,0.6331188135047187
+Pseudomonas aeruginosa,Piperacillin/Tazobactam,Nigeria,0.303334516740594
+Pseudomonas aeruginosa,Piperacillin/Tazobactam,Senegal,0.6368539050697202
+Pseudomonas aeruginosa,Piperacillin/Tazobactam,Togo,0.8551865140467152
+Pseudomonas aeruginosa,Nitrofurantoin,Benin,0.41658885721554306
+Pseudomonas aeruginosa,Nitrofurantoin,Burkina Faso,0.2833299614612841
+Pseudomonas aeruginosa,Nitrofurantoin,Ivory Coast,0.4971182461468263
+Pseudomonas aeruginosa,Nitrofurantoin,Ghana,0.827452254694862
+Pseudomonas aeruginosa,Nitrofurantoin,Mali,0.5463249663406295
+Pseudomonas aeruginosa,Nitrofurantoin,Nigeria,0.32111143883583115
+Pseudomonas aeruginosa,Nitrofurantoin,Senegal,0.31151768342916714
+Pseudomonas aeruginosa,Nitrofurantoin,Togo,0.7448277028747136
+Enterobacter species,Amoxicillin/Clavulanate,Benin,0.6160219452891432
+Enterobacter species,Amoxicillin/Clavulanate,Burkina Faso,0.33814790238069864
+Enterobacter species,Amoxicillin/Clavulanate,Ivory Coast,0.5880364280018301
+Enterobacter species,Amoxicillin/Clavulanate,Ghana,0.6721395146711622
+Enterobacter species,Amoxicillin/Clavulanate,Mali,0.23934289262456138
+Enterobacter species,Amoxicillin/Clavulanate,Nigeria,0.8889497487031169
+Enterobacter species,Amoxicillin/Clavulanate,Senegal,0.15927967158690048
+Enterobacter species,Amoxicillin/Clavulanate,Togo,0.6791903691322976
+Enterobacter species,Ampicillin,Benin,0.42857532482792593
+Enterobacter species,Ampicillin,Burkina Faso,0.520783605587645
+Enterobacter species,Ampicillin,Ivory Coast,0.8471841624605916
+Enterobacter species,Ampicillin,Ghana,0.4579111257628954
+Enterobacter species,Ampicillin,Mali,0.13298066743198628
+Enterobacter species,Ampicillin,Nigeria,0.2458954562426662
+Enterobacter species,Ampicillin,Senegal,0.27342356109970095
+Enterobacter species,Ampicillin,Togo,0.6640260345316975
+Enterobacter species,Ceftriaxone,Benin,0.765809983666544
+Enterobacter species,Ceftriaxone,Burkina Faso,0.4727733554075658
+Enterobacter species,Ceftriaxone,Ivory Coast,0.27878221856806906
+Enterobacter species,Ceftriaxone,Ghana,0.33525834210269717
+Enterobacter species,Ceftriaxone,Mali,0.372946803205492
+Enterobacter species,Ceftriaxone,Nigeria,0.3396813122037501
+Enterobacter species,Ceftriaxone,Senegal,0.8329106515635559
+Enterobacter species,Ceftriaxone,Togo,0.4526224440286788
+Enterobacter species,Ceftazidime,Benin,0.7013680573714834
+Enterobacter species,Ceftazidime,Burkina Faso,0.6862218564079172
+Enterobacter species,Ceftazidime,Ivory Coast,0.7980413386267362
+Enterobacter species,Ceftazidime,Ghana,0.680701151254979
+Enterobacter species,Ceftazidime,Mali,0.8538634531293829
+Enterobacter species,Ceftazidime,Nigeria,0.21257311800869197
+Enterobacter species,Ceftazidime,Senegal,0.1712952895322536
+Enterobacter species,Ceftazidime,Togo,0.7651799489790212
+Enterobacter species,Cefotaxime,Benin,0.712285127463912
+Enterobacter species,Cefotaxime,Burkina Faso,0.266812139172385
+Enterobacter species,Cefotaxime,Ivory Coast,0.7020664084869517
+Enterobacter species,Cefotaxime,Ghana,0.8480334803485429
+Enterobacter species,Cefotaxime,Mali,0.4282200453276531
+Enterobacter species,Cefotaxime,Nigeria,0.1389769129310494
+Enterobacter species,Cefotaxime,Senegal,0.3442834542896117
+Enterobacter species,Cefotaxime,Togo,0.176598841900349
+Enterobacter species,Cefepime,Benin,0.6212971591063233
+Enterobacter species,Cefepime,Burkina Faso,0.8527992289563672
+Enterobacter species,Cefepime,Ivory Coast,0.6563982131248494
+Enterobacter species,Cefepime,Ghana,0.2919845139066608
+Enterobacter species,Cefepime,Mali,0.38751792697499954
+Enterobacter species,Cefepime,Nigeria,0.6305145164528467
+Enterobacter species,Cefepime,Senegal,0.8444493819352051
+Enterobacter species,Cefepime,Togo,0.15254005131457157
+Enterobacter species,Imipenem,Benin,0.6982218073012075
+Enterobacter species,Imipenem,Burkina Faso,0.7378027295108318
+Enterobacter species,Imipenem,Ivory Coast,0.7112681549738876
+Enterobacter species,Imipenem,Ghana,0.10717529761287548
+Enterobacter species,Imipenem,Mali,0.7517843628137207
+Enterobacter species,Imipenem,Nigeria,0.3864172176180952
+Enterobacter species,Imipenem,Senegal,0.5024137282793445
+Enterobacter species,Imipenem,Togo,0.7636282761669019
+Enterobacter species,Meropenem,Benin,0.10072347183010165
+Enterobacter species,Meropenem,Burkina Faso,0.8428133727475751
+Enterobacter species,Meropenem,Ivory Coast,0.600790730022722
+Enterobacter species,Meropenem,Ghana,0.4506866675935892
+Enterobacter species,Meropenem,Mali,0.4276386441293808
+Enterobacter species,Meropenem,Nigeria,0.14040105241469886
+Enterobacter species,Meropenem,Senegal,0.6940777705448459
+Enterobacter species,Meropenem,Togo,0.2960964993929064
+Enterobacter species,Ertapenem,Benin,0.5502421501526745
+Enterobacter species,Ertapenem,Burkina Faso,0.8881890875282756
+Enterobacter species,Ertapenem,Ivory Coast,0.41931029946367204
+Enterobacter species,Ertapenem,Ghana,0.6357142199764736
+Enterobacter species,Ertapenem,Mali,0.3444752751398073
+Enterobacter species,Ertapenem,Nigeria,0.8928225652272644
+Enterobacter species,Ertapenem,Senegal,0.48316213793034557
+Enterobacter species,Ertapenem,Togo,0.8546499036110641
+Enterobacter species,Ciprofloxacin,Benin,0.507129427999713
+Enterobacter species,Ciprofloxacin,Burkina Faso,0.6525684893403269
+Enterobacter species,Ciprofloxacin,Ivory Coast,0.6786620992332143
+Enterobacter species,Ciprofloxacin,Ghana,0.5736534941603403
+Enterobacter species,Ciprofloxacin,Mali,0.22024793398604503
+Enterobacter species,Ciprofloxacin,Nigeria,0.8267375916170948
+Enterobacter species,Ciprofloxacin,Senegal,0.877157691169768
+Enterobacter species,Ciprofloxacin,Togo,0.7611351359574078
+Enterobacter species,Levofloxacin,Benin,0.5202911229114412
+Enterobacter species,Levofloxacin,Burkina Faso,0.5888875644794146
+Enterobacter species,Levofloxacin,Ivory Coast,0.48621126464202635
+Enterobacter species,Levofloxacin,Ghana,0.383802243340745
+Enterobacter species,Levofloxacin,Mali,0.6281152838581233
+Enterobacter species,Levofloxacin,Nigeria,0.33235237967314224
+Enterobacter species,Levofloxacin,Senegal,0.39430397238533077
+Enterobacter species,Levofloxacin,Togo,0.6941371095577342
+Enterobacter species,Gentamicin,Benin,0.5936438711844011
+Enterobacter species,Gentamicin,Burkina Faso,0.12921327857320133
+Enterobacter species,Gentamicin,Ivory Coast,0.6749825812954292
+Enterobacter species,Gentamicin,Ghana,0.23230045463663443
+Enterobacter species,Gentamicin,Mali,0.14608280622598785
+Enterobacter species,Gentamicin,Nigeria,0.3843038498875492
+Enterobacter species,Gentamicin,Senegal,0.7300682678844695
+Enterobacter species,Gentamicin,Togo,0.6368844832898817
+Enterobacter species,Amikacin,Benin,0.2382836322195158
+Enterobacter species,Amikacin,Burkina Faso,0.20111656005389228
+Enterobacter species,Amikacin,Ivory Coast,0.28906061714775133
+Enterobacter species,Amikacin,Ghana,0.8761141386140018
+Enterobacter species,Amikacin,Mali,0.5229408721255379
+Enterobacter species,Amikacin,Nigeria,0.16799587323215617
+Enterobacter species,Amikacin,Senegal,0.6481033520837125
+Enterobacter species,Amikacin,Togo,0.16827652543028418
+Enterobacter species,Tobramycin,Benin,0.8280257931394613
+Enterobacter species,Tobramycin,Burkina Faso,0.2919104413513487
+Enterobacter species,Tobramycin,Ivory Coast,0.5717450480111139
+Enterobacter species,Tobramycin,Ghana,0.41036591493319186
+Enterobacter species,Tobramycin,Mali,0.3363186072920854
+Enterobacter species,Tobramycin,Nigeria,0.7234807840270969
+Enterobacter species,Tobramycin,Senegal,0.6461086839127861
+Enterobacter species,Tobramycin,Togo,0.6684414661706388
+Enterobacter species,Trimethoprim/Sulfamethoxazole,Benin,0.6483741837315526
+Enterobacter species,Trimethoprim/Sulfamethoxazole,Burkina Faso,0.6888491377153001
+Enterobacter species,Trimethoprim/Sulfamethoxazole,Ivory Coast,0.8595241554828695
+Enterobacter species,Trimethoprim/Sulfamethoxazole,Ghana,0.7083274807764429
+Enterobacter species,Trimethoprim/Sulfamethoxazole,Mali,0.20918145523975984
+Enterobacter species,Trimethoprim/Sulfamethoxazole,Nigeria,0.4695194031870681
+Enterobacter species,Trimethoprim/Sulfamethoxazole,Senegal,0.2868425580131181
+Enterobacter species,Trimethoprim/Sulfamethoxazole,Togo,0.19406424907712774
+Enterobacter species,Tetracycline,Benin,0.6302049106786047
+Enterobacter species,Tetracycline,Burkina Faso,0.23982148127970132
+Enterobacter species,Tetracycline,Ivory Coast,0.10677571755922682
+Enterobacter species,Tetracycline,Ghana,0.1027110868620551
+Enterobacter species,Tetracycline,Mali,0.7722153159161945
+Enterobacter species,Tetracycline,Nigeria,0.4867337395555935
+Enterobacter species,Tetracycline,Senegal,0.44126083778606073
+Enterobacter species,Tetracycline,Togo,0.3210239252600525
+Enterobacter species,Doxycycline,Benin,0.4904349769601061
+Enterobacter species,Doxycycline,Burkina Faso,0.8746691086967292
+Enterobacter species,Doxycycline,Ivory Coast,0.6172856933990916
+Enterobacter species,Doxycycline,Ghana,0.19104025940486855
+Enterobacter species,Doxycycline,Mali,0.11636447904124161
+Enterobacter species,Doxycycline,Nigeria,0.25411358950933605
+Enterobacter species,Doxycycline,Senegal,0.7906956263336371
+Enterobacter species,Doxycycline,Togo,0.6145097964205899
+Enterobacter species,Clindamycin,Benin,0.48706608814232843
+Enterobacter species,Clindamycin,Burkina Faso,0.2473743750990406
+Enterobacter species,Clindamycin,Ivory Coast,0.19460141273197218
+Enterobacter species,Clindamycin,Ghana,0.18248401697097344
+Enterobacter species,Clindamycin,Mali,0.806937728312798
+Enterobacter species,Clindamycin,Nigeria,0.5237307193464095
+Enterobacter species,Clindamycin,Senegal,0.6176477044825567
+Enterobacter species,Clindamycin,Togo,0.47456421277325234
+Enterobacter species,Erythromycin,Benin,0.35979526984995647
+Enterobacter species,Erythromycin,Burkina Faso,0.2367297780366868
+Enterobacter species,Erythromycin,Ivory Coast,0.4008365857900128
+Enterobacter species,Erythromycin,Ghana,0.860714781252211
+Enterobacter species,Erythromycin,Mali,0.3987767262843901
+Enterobacter species,Erythromycin,Nigeria,0.4837076133021443
+Enterobacter species,Erythromycin,Senegal,0.7635530269723935
+Enterobacter species,Erythromycin,Togo,0.55912617633998
+Enterobacter species,Linezolid,Benin,0.8069533376438115
+Enterobacter species,Linezolid,Burkina Faso,0.4106013468219645
+Enterobacter species,Linezolid,Ivory Coast,0.4283008859797892
+Enterobacter species,Linezolid,Ghana,0.20509571442804733
+Enterobacter species,Linezolid,Mali,0.3737503781836019
+Enterobacter species,Linezolid,Nigeria,0.6067571314162603
+Enterobacter species,Linezolid,Senegal,0.5190143177662874
+Enterobacter species,Linezolid,Togo,0.44878050459366525
+Enterobacter species,Vancomycin,Benin,0.5289393522141671
+Enterobacter species,Vancomycin,Burkina Faso,0.8421717664818685
+Enterobacter species,Vancomycin,Ivory Coast,0.19679579830635907
+Enterobacter species,Vancomycin,Ghana,0.38735152028277986
+Enterobacter species,Vancomycin,Mali,0.7031451221867933
+Enterobacter species,Vancomycin,Nigeria,0.18484201996293548
+Enterobacter species,Vancomycin,Senegal,0.5810987873431238
+Enterobacter species,Vancomycin,Togo,0.604429399246688
+Enterobacter species,Piperacillin/Tazobactam,Benin,0.7034838016569379
+Enterobacter species,Piperacillin/Tazobactam,Burkina Faso,0.7191221758414075
+Enterobacter species,Piperacillin/Tazobactam,Ivory Coast,0.130545502220636
+Enterobacter species,Piperacillin/Tazobactam,Ghana,0.7694282785671809
+Enterobacter species,Piperacillin/Tazobactam,Mali,0.812517077160005
+Enterobacter species,Piperacillin/Tazobactam,Nigeria,0.4230952100793689
+Enterobacter species,Piperacillin/Tazobactam,Senegal,0.36767839402677915
+Enterobacter species,Piperacillin/Tazobactam,Togo,0.3885121086553961
+Enterobacter species,Nitrofurantoin,Benin,0.6195573144650076
+Enterobacter species,Nitrofurantoin,Burkina Faso,0.4041614098335774
+Enterobacter species,Nitrofurantoin,Ivory Coast,0.4535746080839771
+Enterobacter species,Nitrofurantoin,Ghana,0.47798675797821066
+Enterobacter species,Nitrofurantoin,Mali,0.5580090910002063
+Enterobacter species,Nitrofurantoin,Nigeria,0.3771170219625577
+Enterobacter species,Nitrofurantoin,Senegal,0.8517736643743726
+Enterobacter species,Nitrofurantoin,Togo,0.701111655020154
+Escherichia coli,Amoxicillin/Clavulanate,Benin,0.41326380578066224
+Escherichia coli,Amoxicillin/Clavulanate,Burkina Faso,0.13147969801050705
+Escherichia coli,Amoxicillin/Clavulanate,Ivory Coast,0.3472291234850296
+Escherichia coli,Amoxicillin/Clavulanate,Ghana,0.5978789245344999
+Escherichia coli,Amoxicillin/Clavulanate,Mali,0.6110098724135865
+Escherichia coli,Amoxicillin/Clavulanate,Nigeria,0.5196843527904841
+Escherichia coli,Amoxicillin/Clavulanate,Senegal,0.7659413449403314
+Escherichia coli,Amoxicillin/Clavulanate,Togo,0.3244965625789301
+Escherichia coli,Ampicillin,Benin,0.7501258527384872
+Escherichia coli,Ampicillin,Burkina Faso,0.6384183507516314
+Escherichia coli,Ampicillin,Ivory Coast,0.8301805473483344
+Escherichia coli,Ampicillin,Ghana,0.49377480467115864
+Escherichia coli,Ampicillin,Mali,0.29178111970503623
+Escherichia coli,Ampicillin,Nigeria,0.2658027835111264
+Escherichia coli,Ampicillin,Senegal,0.2934968559679402
+Escherichia coli,Ampicillin,Togo,0.158000589366229
+Escherichia coli,Ceftriaxone,Benin,0.3122129095293317
+Escherichia coli,Ceftriaxone,Burkina Faso,0.1286175952004167
+Escherichia coli,Ceftriaxone,Ivory Coast,0.493862809344944
+Escherichia coli,Ceftriaxone,Ghana,0.5640598859430196
+Escherichia coli,Ceftriaxone,Mali,0.762336899430112
+Escherichia coli,Ceftriaxone,Nigeria,0.5301192612181452
+Escherichia coli,Ceftriaxone,Senegal,0.2696721622307131
+Escherichia coli,Ceftriaxone,Togo,0.1427963699723609
+Escherichia coli,Ceftazidime,Benin,0.5690727825727763
+Escherichia coli,Ceftazidime,Burkina Faso,0.7444110268051748
+Escherichia coli,Ceftazidime,Ivory Coast,0.7664844915855057
+Escherichia coli,Ceftazidime,Ghana,0.39281609593176625
+Escherichia coli,Ceftazidime,Mali,0.3191295396027004
+Escherichia coli,Ceftazidime,Nigeria,0.18986247396608544
+Escherichia coli,Ceftazidime,Senegal,0.25827070539383856
+Escherichia coli,Ceftazidime,Togo,0.3516108988570361
+Escherichia coli,Cefotaxime,Benin,0.7419555881538721
+Escherichia coli,Cefotaxime,Burkina Faso,0.546005019232152
+Escherichia coli,Cefotaxime,Ivory Coast,0.7864804910268502
+Escherichia coli,Cefotaxime,Ghana,0.270731254008282
+Escherichia coli,Cefotaxime,Mali,0.4303901209664347
+Escherichia coli,Cefotaxime,Nigeria,0.7885861975993332
+Escherichia coli,Cefotaxime,Senegal,0.5574298040760145
+Escherichia coli,Cefotaxime,Togo,0.41063775585223583
+Escherichia coli,Cefepime,Benin,0.4532721757365922
+Escherichia coli,Cefepime,Burkina Faso,0.1379711708625603
+Escherichia coli,Cefepime,Ivory Coast,0.18960941685616933
+Escherichia coli,Cefepime,Ghana,0.2231036193980147
+Escherichia coli,Cefepime,Mali,0.26022155206646486
+Escherichia coli,Cefepime,Nigeria,0.3709224153702402
+Escherichia coli,Cefepime,Senegal,0.49660921715093687
+Escherichia coli,Cefepime,Togo,0.6173741317613506
+Escherichia coli,Imipenem,Benin,0.7049829444464989
+Escherichia coli,Imipenem,Burkina Faso,0.5043333338389473
+Escherichia coli,Imipenem,Ivory Coast,0.6418210906554385
+Escherichia coli,Imipenem,Ghana,0.34347054320346604
+Escherichia coli,Imipenem,Mali,0.1002912892632904
+Escherichia coli,Imipenem,Nigeria,0.3403336285473697
+Escherichia coli,Imipenem,Senegal,0.20413846027119611
+Escherichia coli,Imipenem,Togo,0.5094324337570499
+Escherichia coli,Meropenem,Benin,0.7559618845945044
+Escherichia coli,Meropenem,Burkina Faso,0.8559674008977941
+Escherichia coli,Meropenem,Ivory Coast,0.154344442447327
+Escherichia coli,Meropenem,Ghana,0.7283133745852735
+Escherichia coli,Meropenem,Mali,0.5540181107125373
+Escherichia coli,Meropenem,Nigeria,0.6055204577445852
+Escherichia coli,Meropenem,Senegal,0.34705831768288464
+Escherichia coli,Meropenem,Togo,0.709925913453443
+Escherichia coli,Ertapenem,Benin,0.8621976977445501
+Escherichia coli,Ertapenem,Burkina Faso,0.2983268029849715
+Escherichia coli,Ertapenem,Ivory Coast,0.6677105596639475
+Escherichia coli,Ertapenem,Ghana,0.5566921146426059
+Escherichia coli,Ertapenem,Mali,0.7464830674161941
+Escherichia coli,Ertapenem,Nigeria,0.7242913350147403
+Escherichia coli,Ertapenem,Senegal,0.4580919850635612
+Escherichia coli,Ertapenem,Togo,0.4008196178021779
+Escherichia coli,Ciprofloxacin,Benin,0.28880529477147593
+Escherichia coli,Ciprofloxacin,Burkina Faso,0.6132831247127978
+Escherichia coli,Ciprofloxacin,Ivory Coast,0.8116302491333001
+Escherichia coli,Ciprofloxacin,Ghana,0.6068119244900597
+Escherichia coli,Ciprofloxacin,Mali,0.3839615876388439
+Escherichia coli,Ciprofloxacin,Nigeria,0.852161339652508
+Escherichia coli,Ciprofloxacin,Senegal,0.6911425283230883
+Escherichia coli,Ciprofloxacin,Togo,0.6451793133832902
+Escherichia coli,Levofloxacin,Benin,0.862960848351967
+Escherichia coli,Levofloxacin,Burkina Faso,0.4107293799096351
+Escherichia coli,Levofloxacin,Ivory Coast,0.5106376655156303
+Escherichia coli,Levofloxacin,Ghana,0.6025139729472848
+Escherichia coli,Levofloxacin,Mali,0.2763055928078123
+Escherichia coli,Levofloxacin,Nigeria,0.3365024154764513
+Escherichia coli,Levofloxacin,Senegal,0.2094038845361461
+Escherichia coli,Levofloxacin,Togo,0.577811647775253
+Escherichia coli,Gentamicin,Benin,0.18347370441392385
+Escherichia coli,Gentamicin,Burkina Faso,0.3130696375271098
+Escherichia coli,Gentamicin,Ivory Coast,0.685823103276482
+Escherichia coli,Gentamicin,Ghana,0.6796066398790279
+Escherichia coli,Gentamicin,Mali,0.21649800375491104
+Escherichia coli,Gentamicin,Nigeria,0.4967025862187108
+Escherichia coli,Gentamicin,Senegal,0.6704740142527152
+Escherichia coli,Gentamicin,Togo,0.34460540142002816
+Escherichia coli,Amikacin,Benin,0.20457175935062538
+Escherichia coli,Amikacin,Burkina Faso,0.34133592373359256
+Escherichia coli,Amikacin,Ivory Coast,0.5033170506856647
+Escherichia coli,Amikacin,Ghana,0.5466432314428731
+Escherichia coli,Amikacin,Mali,0.722132288931786
+Escherichia coli,Amikacin,Nigeria,0.7401522184117268
+Escherichia coli,Amikacin,Senegal,0.7411805007051843
+Escherichia coli,Amikacin,Togo,0.8725897630590264
+Escherichia coli,Tobramycin,Benin,0.5748701939592425
+Escherichia coli,Tobramycin,Burkina Faso,0.6365628466927229
+Escherichia coli,Tobramycin,Ivory Coast,0.6531633770445616
+Escherichia coli,Tobramycin,Ghana,0.23062773392569433
+Escherichia coli,Tobramycin,Mali,0.7009638469836886
+Escherichia coli,Tobramycin,Nigeria,0.4496239466980857
+Escherichia coli,Tobramycin,Senegal,0.5170590873317296
+Escherichia coli,Tobramycin,Togo,0.8525708508653228
+Escherichia coli,Trimethoprim/Sulfamethoxazole,Benin,0.22365487749528512
+Escherichia coli,Trimethoprim/Sulfamethoxazole,Burkina Faso,0.8510000986899312
+Escherichia coli,Trimethoprim/Sulfamethoxazole,Ivory Coast,0.47131926355838505
+Escherichia coli,Trimethoprim/Sulfamethoxazole,Ghana,0.6600862653580533
+Escherichia coli,Trimethoprim/Sulfamethoxazole,Mali,0.19506368203856062
+Escherichia coli,Trimethoprim/Sulfamethoxazole,Nigeria,0.4615331678596045
+Escherichia coli,Trimethoprim/Sulfamethoxazole,Senegal,0.3571288465632687
+Escherichia coli,Trimethoprim/Sulfamethoxazole,Togo,0.24828157997985756
+Escherichia coli,Tetracycline,Benin,0.6438651005047856
+Escherichia coli,Tetracycline,Burkina Faso,0.8349948669400423
+Escherichia coli,Tetracycline,Ivory Coast,0.45824883382784887
+Escherichia coli,Tetracycline,Ghana,0.39308820370135933
+Escherichia coli,Tetracycline,Mali,0.5837662471490922
+Escherichia coli,Tetracycline,Nigeria,0.2879287858438019
+Escherichia coli,Tetracycline,Senegal,0.10531619158195182
+Escherichia coli,Tetracycline,Togo,0.3618177555943958
+Escherichia coli,Doxycycline,Benin,0.853455694098291
+Escherichia coli,Doxycycline,Burkina Faso,0.21262231450366623
+Escherichia coli,Doxycycline,Ivory Coast,0.5980218397376731
+Escherichia coli,Doxycycline,Ghana,0.5290061287691784
+Escherichia coli,Doxycycline,Mali,0.8124905834137754
+Escherichia coli,Doxycycline,Nigeria,0.644784728905907
+Escherichia coli,Doxycycline,Senegal,0.8381211108963509
+Escherichia coli,Doxycycline,Togo,0.7001515085483935
+Escherichia coli,Clindamycin,Benin,0.388859381940464
+Escherichia coli,Clindamycin,Burkina Faso,0.49247802975870136
+Escherichia coli,Clindamycin,Ivory Coast,0.1263970251960087
+Escherichia coli,Clindamycin,Ghana,0.11984608764673377
+Escherichia coli,Clindamycin,Mali,0.10369586497896961
+Escherichia coli,Clindamycin,Nigeria,0.8400248076017064
+Escherichia coli,Clindamycin,Senegal,0.4408195992859052
+Escherichia coli,Clindamycin,Togo,0.3978036261372976
+Escherichia coli,Erythromycin,Benin,0.2674895510197458
+Escherichia coli,Erythromycin,Burkina Faso,0.3883664872313677
+Escherichia coli,Erythromycin,Ivory Coast,0.6857363779894506
+Escherichia coli,Erythromycin,Ghana,0.8596381390435205
+Escherichia coli,Erythromycin,Mali,0.29205352254958405
+Escherichia coli,Erythromycin,Nigeria,0.5774601239609677
+Escherichia coli,Erythromycin,Senegal,0.34216003834558284
+Escherichia coli,Erythromycin,Togo,0.3779631505030637
+Escherichia coli,Linezolid,Benin,0.5055255000040795
+Escherichia coli,Linezolid,Burkina Faso,0.15019294631790842
+Escherichia coli,Linezolid,Ivory Coast,0.26230605980848987
+Escherichia coli,Linezolid,Ghana,0.4335978839052762
+Escherichia coli,Linezolid,Mali,0.12605963408911763
+Escherichia coli,Linezolid,Nigeria,0.8757828963414367
+Escherichia coli,Linezolid,Senegal,0.22130458748085138
+Escherichia coli,Linezolid,Togo,0.5582004456686706
+Escherichia coli,Vancomycin,Benin,0.45946136819870054
+Escherichia coli,Vancomycin,Burkina Faso,0.13066275885111428
+Escherichia coli,Vancomycin,Ivory Coast,0.1541936303805178
+Escherichia coli,Vancomycin,Ghana,0.4512006170255143
+Escherichia coli,Vancomycin,Mali,0.21560746296047537
+Escherichia coli,Vancomycin,Nigeria,0.8045236689867309
+Escherichia coli,Vancomycin,Senegal,0.7816576339952651
+Escherichia coli,Vancomycin,Togo,0.19382424246375135
+Escherichia coli,Piperacillin/Tazobactam,Benin,0.7380470675457239
+Escherichia coli,Piperacillin/Tazobactam,Burkina Faso,0.31724467316747884
+Escherichia coli,Piperacillin/Tazobactam,Ivory Coast,0.6653455368785883
+Escherichia coli,Piperacillin/Tazobactam,Ghana,0.10306254471855843
+Escherichia coli,Piperacillin/Tazobactam,Mali,0.7821707217080877
+Escherichia coli,Piperacillin/Tazobactam,Nigeria,0.5960872461235756
+Escherichia coli,Piperacillin/Tazobactam,Senegal,0.8910756787081342
+Escherichia coli,Piperacillin/Tazobactam,Togo,0.5408376735496245
+Escherichia coli,Nitrofurantoin,Benin,0.47332104870373337
+Escherichia coli,Nitrofurantoin,Burkina Faso,0.3789410081055803
+Escherichia coli,Nitrofurantoin,Ivory Coast,0.7997881245250108
+Escherichia coli,Nitrofurantoin,Ghana,0.1123361513034019
+Escherichia coli,Nitrofurantoin,Mali,0.8786698817815383
+Escherichia coli,Nitrofurantoin,Nigeria,0.5407098133452292
+Escherichia coli,Nitrofurantoin,Senegal,0.3608186213442409
+Escherichia coli,Nitrofurantoin,Togo,0.3094712893964602
+Proteus mirabilis,Amoxicillin/Clavulanate,Benin,0.2352111945160023
+Proteus mirabilis,Amoxicillin/Clavulanate,Burkina Faso,0.4312861292930025
+Proteus mirabilis,Amoxicillin/Clavulanate,Ivory Coast,0.31663166445960556
+Proteus mirabilis,Amoxicillin/Clavulanate,Ghana,0.4117746040633299
+Proteus mirabilis,Amoxicillin/Clavulanate,Mali,0.38131051925964743
+Proteus mirabilis,Amoxicillin/Clavulanate,Nigeria,0.525279582609132
+Proteus mirabilis,Amoxicillin/Clavulanate,Senegal,0.7058224958961662
+Proteus mirabilis,Amoxicillin/Clavulanate,Togo,0.497905921175006
+Proteus mirabilis,Ampicillin,Benin,0.11249763816904396
+Proteus mirabilis,Ampicillin,Burkina Faso,0.3159382915760619
+Proteus mirabilis,Ampicillin,Ivory Coast,0.3737836221718407
+Proteus mirabilis,Ampicillin,Ghana,0.8140140179036786
+Proteus mirabilis,Ampicillin,Mali,0.6065751287809228
+Proteus mirabilis,Ampicillin,Nigeria,0.8611163359121095
+Proteus mirabilis,Ampicillin,Senegal,0.3029855775905593
+Proteus mirabilis,Ampicillin,Togo,0.28929708629472584
+Proteus mirabilis,Ceftriaxone,Benin,0.7702434026237985
+Proteus mirabilis,Ceftriaxone,Burkina Faso,0.6353716276992234
+Proteus mirabilis,Ceftriaxone,Ivory Coast,0.82344110005194
+Proteus mirabilis,Ceftriaxone,Ghana,0.4422257035885051
+Proteus mirabilis,Ceftriaxone,Mali,0.7151184806797598
+Proteus mirabilis,Ceftriaxone,Nigeria,0.39356927854742774
+Proteus mirabilis,Ceftriaxone,Senegal,0.1487582856023556
+Proteus mirabilis,Ceftriaxone,Togo,0.46225553969188227
+Proteus mirabilis,Ceftazidime,Benin,0.68203246383037
+Proteus mirabilis,Ceftazidime,Burkina Faso,0.1503763231629079
+Proteus mirabilis,Ceftazidime,Ivory Coast,0.8495829189756025
+Proteus mirabilis,Ceftazidime,Ghana,0.8986612051374316
+Proteus mirabilis,Ceftazidime,Mali,0.10413550182356426
+Proteus mirabilis,Ceftazidime,Nigeria,0.4620522695557562
+Proteus mirabilis,Ceftazidime,Senegal,0.676724720507921
+Proteus mirabilis,Ceftazidime,Togo,0.8054579635968079
+Proteus mirabilis,Cefotaxime,Benin,0.8370933800388334
+Proteus mirabilis,Cefotaxime,Burkina Faso,0.33767163750938406
+Proteus mirabilis,Cefotaxime,Ivory Coast,0.2690632429561972
+Proteus mirabilis,Cefotaxime,Ghana,0.55935657893143
+Proteus mirabilis,Cefotaxime,Mali,0.25279973178964954
+Proteus mirabilis,Cefotaxime,Nigeria,0.1392047792563883
+Proteus mirabilis,Cefotaxime,Senegal,0.8198008629993202
+Proteus mirabilis,Cefotaxime,Togo,0.605702768790017
+Proteus mirabilis,Cefepime,Benin,0.4812279324232457
+Proteus mirabilis,Cefepime,Burkina Faso,0.20048029834629838
+Proteus mirabilis,Cefepime,Ivory Coast,0.30802326412929326
+Proteus mirabilis,Cefepime,Ghana,0.17849944325201125
+Proteus mirabilis,Cefepime,Mali,0.6862295936733745
+Proteus mirabilis,Cefepime,Nigeria,0.4642800505938497
+Proteus mirabilis,Cefepime,Senegal,0.34962221606148447
+Proteus mirabilis,Cefepime,Togo,0.853367136281278
+Proteus mirabilis,Imipenem,Benin,0.2866376901438067
+Proteus mirabilis,Imipenem,Burkina Faso,0.5688322665203253
+Proteus mirabilis,Imipenem,Ivory Coast,0.1906583249343842
+Proteus mirabilis,Imipenem,Ghana,0.23839773210029122
+Proteus mirabilis,Imipenem,Mali,0.17121249282964657
+Proteus mirabilis,Imipenem,Nigeria,0.3691639300691716
+Proteus mirabilis,Imipenem,Senegal,0.790804664261436
+Proteus mirabilis,Imipenem,Togo,0.6831697186540864
+Proteus mirabilis,Meropenem,Benin,0.39904559779966364
+Proteus mirabilis,Meropenem,Burkina Faso,0.41149556389874264
+Proteus mirabilis,Meropenem,Ivory Coast,0.28634740606173176
+Proteus mirabilis,Meropenem,Ghana,0.5791568761811947
+Proteus mirabilis,Meropenem,Mali,0.4389151540003441
+Proteus mirabilis,Meropenem,Nigeria,0.6615631086508296
+Proteus mirabilis,Meropenem,Senegal,0.4848095725407572
+Proteus mirabilis,Meropenem,Togo,0.7063544450797855
+Proteus mirabilis,Ertapenem,Benin,0.2528294554793178
+Proteus mirabilis,Ertapenem,Burkina Faso,0.8250126842722664
+Proteus mirabilis,Ertapenem,Ivory Coast,0.575086074229831
+Proteus mirabilis,Ertapenem,Ghana,0.453059678275885
+Proteus mirabilis,Ertapenem,Mali,0.17432537350118063
+Proteus mirabilis,Ertapenem,Nigeria,0.2655380536255141
+Proteus mirabilis,Ertapenem,Senegal,0.439555116719914
+Proteus mirabilis,Ertapenem,Togo,0.599843756181741
+Proteus mirabilis,Ciprofloxacin,Benin,0.6466231596263031
+Proteus mirabilis,Ciprofloxacin,Burkina Faso,0.7925381232896539
+Proteus mirabilis,Ciprofloxacin,Ivory Coast,0.3514916399831759
+Proteus mirabilis,Ciprofloxacin,Ghana,0.43366130255025837
+Proteus mirabilis,Ciprofloxacin,Mali,0.8866007845577634
+Proteus mirabilis,Ciprofloxacin,Nigeria,0.41151666656631336
+Proteus mirabilis,Ciprofloxacin,Senegal,0.5295452974952712
+Proteus mirabilis,Ciprofloxacin,Togo,0.24533321474173742
+Proteus mirabilis,Levofloxacin,Benin,0.6902810110037114
+Proteus mirabilis,Levofloxacin,Burkina Faso,0.10115191956649766
+Proteus mirabilis,Levofloxacin,Ivory Coast,0.5648595554765977
+Proteus mirabilis,Levofloxacin,Ghana,0.15007598787613852
+Proteus mirabilis,Levofloxacin,Mali,0.646448436586754
+Proteus mirabilis,Levofloxacin,Nigeria,0.6787849520321345
+Proteus mirabilis,Levofloxacin,Senegal,0.6934874645763183
+Proteus mirabilis,Levofloxacin,Togo,0.6826823740621034
+Proteus mirabilis,Gentamicin,Benin,0.4820085302386573
+Proteus mirabilis,Gentamicin,Burkina Faso,0.2944222428740112
+Proteus mirabilis,Gentamicin,Ivory Coast,0.7777540550602186
+Proteus mirabilis,Gentamicin,Ghana,0.32530507397812813
+Proteus mirabilis,Gentamicin,Mali,0.48554287170612376
+Proteus mirabilis,Gentamicin,Nigeria,0.24600283901621572
+Proteus mirabilis,Gentamicin,Senegal,0.7457245461156259
+Proteus mirabilis,Gentamicin,Togo,0.8526045385273803
+Proteus mirabilis,Amikacin,Benin,0.4596311357692885
+Proteus mirabilis,Amikacin,Burkina Faso,0.5564019141968819
+Proteus mirabilis,Amikacin,Ivory Coast,0.2080858060097719
+Proteus mirabilis,Amikacin,Ghana,0.6765862637791746
+Proteus mirabilis,Amikacin,Mali,0.5858730563587796
+Proteus mirabilis,Amikacin,Nigeria,0.6367677168932029
+Proteus mirabilis,Amikacin,Senegal,0.76622099447702
+Proteus mirabilis,Amikacin,Togo,0.6036508746500371
+Proteus mirabilis,Tobramycin,Benin,0.7349202231799868
+Proteus mirabilis,Tobramycin,Burkina Faso,0.27687169753732377
+Proteus mirabilis,Tobramycin,Ivory Coast,0.6305394802468794
+Proteus mirabilis,Tobramycin,Ghana,0.8709949192276202
+Proteus mirabilis,Tobramycin,Mali,0.5779762819258735
+Proteus mirabilis,Tobramycin,Nigeria,0.8881910876514354
+Proteus mirabilis,Tobramycin,Senegal,0.828405293864855
+Proteus mirabilis,Tobramycin,Togo,0.5987803786998684
+Proteus mirabilis,Trimethoprim/Sulfamethoxazole,Benin,0.684940312171861
+Proteus mirabilis,Trimethoprim/Sulfamethoxazole,Burkina Faso,0.49261364539533037
+Proteus mirabilis,Trimethoprim/Sulfamethoxazole,Ivory Coast,0.5420462514910821
+Proteus mirabilis,Trimethoprim/Sulfamethoxazole,Ghana,0.17633563734276037
+Proteus mirabilis,Trimethoprim/Sulfamethoxazole,Mali,0.7305897314511145
+Proteus mirabilis,Trimethoprim/Sulfamethoxazole,Nigeria,0.12589458495479644
+Proteus mirabilis,Trimethoprim/Sulfamethoxazole,Senegal,0.45678721162372915
+Proteus mirabilis,Trimethoprim/Sulfamethoxazole,Togo,0.10251601395871034
+Proteus mirabilis,Tetracycline,Benin,0.7266742612185554
+Proteus mirabilis,Tetracycline,Burkina Faso,0.719464531608568
+Proteus mirabilis,Tetracycline,Ivory Coast,0.3818577124791622
+Proteus mirabilis,Tetracycline,Ghana,0.5041033870659176
+Proteus mirabilis,Tetracycline,Mali,0.3374888646167298
+Proteus mirabilis,Tetracycline,Nigeria,0.45822566771668294
+Proteus mirabilis,Tetracycline,Senegal,0.8223797400941804
+Proteus mirabilis,Tetracycline,Togo,0.823749280996919
+Proteus mirabilis,Doxycycline,Benin,0.7252320653131462
+Proteus mirabilis,Doxycycline,Burkina Faso,0.6603708377331304
+Proteus mirabilis,Doxycycline,Ivory Coast,0.5452776003094431
+Proteus mirabilis,Doxycycline,Ghana,0.41202725008406804
+Proteus mirabilis,Doxycycline,Mali,0.32218656154602043
+Proteus mirabilis,Doxycycline,Nigeria,0.24876436551566378
+Proteus mirabilis,Doxycycline,Senegal,0.8941242531307747
+Proteus mirabilis,Doxycycline,Togo,0.8991183926836345
+Proteus mirabilis,Clindamycin,Benin,0.27344276584547955
+Proteus mirabilis,Clindamycin,Burkina Faso,0.8128887961559886
+Proteus mirabilis,Clindamycin,Ivory Coast,0.4694220296503434
+Proteus mirabilis,Clindamycin,Ghana,0.3971798118430907
+Proteus mirabilis,Clindamycin,Mali,0.6951709269576445
+Proteus mirabilis,Clindamycin,Nigeria,0.7906023745473663
+Proteus mirabilis,Clindamycin,Senegal,0.7302201754611027
+Proteus mirabilis,Clindamycin,Togo,0.2389349466598957
+Proteus mirabilis,Erythromycin,Benin,0.3553154123048592
+Proteus mirabilis,Erythromycin,Burkina Faso,0.8972971830720021
+Proteus mirabilis,Erythromycin,Ivory Coast,0.2112557467076994
+Proteus mirabilis,Erythromycin,Ghana,0.232560429712089
+Proteus mirabilis,Erythromycin,Mali,0.268467908539525
+Proteus mirabilis,Erythromycin,Nigeria,0.15452915686925311
+Proteus mirabilis,Erythromycin,Senegal,0.5671478681570221
+Proteus mirabilis,Erythromycin,Togo,0.7738403077850505
+Proteus mirabilis,Linezolid,Benin,0.25409209209140526
+Proteus mirabilis,Linezolid,Burkina Faso,0.8193361321437284
+Proteus mirabilis,Linezolid,Ivory Coast,0.4716851283470861
+Proteus mirabilis,Linezolid,Ghana,0.3762831083695417
+Proteus mirabilis,Linezolid,Mali,0.7828922364619753
+Proteus mirabilis,Linezolid,Nigeria,0.5466770850360888
+Proteus mirabilis,Linezolid,Senegal,0.8825898265935437
+Proteus mirabilis,Linezolid,Togo,0.48965106866717345
+Proteus mirabilis,Vancomycin,Benin,0.49762604775285024
+Proteus mirabilis,Vancomycin,Burkina Faso,0.12068628698579396
+Proteus mirabilis,Vancomycin,Ivory Coast,0.6422445867399392
+Proteus mirabilis,Vancomycin,Ghana,0.48680160773163406
+Proteus mirabilis,Vancomycin,Mali,0.5165826648149966
+Proteus mirabilis,Vancomycin,Nigeria,0.5640083725599657
+Proteus mirabilis,Vancomycin,Senegal,0.367130844051632
+Proteus mirabilis,Vancomycin,Togo,0.33258770029736073
+Proteus mirabilis,Piperacillin/Tazobactam,Benin,0.7353815330941879
+Proteus mirabilis,Piperacillin/Tazobactam,Burkina Faso,0.35124851662927303
+Proteus mirabilis,Piperacillin/Tazobactam,Ivory Coast,0.2653408785192114
+Proteus mirabilis,Piperacillin/Tazobactam,Ghana,0.8077865679842297
+Proteus mirabilis,Piperacillin/Tazobactam,Mali,0.32455669807241705
+Proteus mirabilis,Piperacillin/Tazobactam,Nigeria,0.4212865846050934
+Proteus mirabilis,Piperacillin/Tazobactam,Senegal,0.1462234426525707
+Proteus mirabilis,Piperacillin/Tazobactam,Togo,0.6121360192497194
+Proteus mirabilis,Nitrofurantoin,Benin,0.8010574915658343
+Proteus mirabilis,Nitrofurantoin,Burkina Faso,0.565614836141031
+Proteus mirabilis,Nitrofurantoin,Ivory Coast,0.3149470157972479
+Proteus mirabilis,Nitrofurantoin,Ghana,0.5305436324165438
+Proteus mirabilis,Nitrofurantoin,Mali,0.43496052159611376
+Proteus mirabilis,Nitrofurantoin,Nigeria,0.2394467971532878
+Proteus mirabilis,Nitrofurantoin,Senegal,0.8531422086404432
+Proteus mirabilis,Nitrofurantoin,Togo,0.7147562521738017
+Serratia marcescens,Amoxicillin/Clavulanate,Benin,0.7327403681679316
+Serratia marcescens,Amoxicillin/Clavulanate,Burkina Faso,0.808900668143078
+Serratia marcescens,Amoxicillin/Clavulanate,Ivory Coast,0.29511732439761207
+Serratia marcescens,Amoxicillin/Clavulanate,Ghana,0.5661223888157852
+Serratia marcescens,Amoxicillin/Clavulanate,Mali,0.4633261928384582
+Serratia marcescens,Amoxicillin/Clavulanate,Nigeria,0.4756520325973328
+Serratia marcescens,Amoxicillin/Clavulanate,Senegal,0.7091880064764633
+Serratia marcescens,Amoxicillin/Clavulanate,Togo,0.21977778490363387
+Serratia marcescens,Ampicillin,Benin,0.1402749682627783
+Serratia marcescens,Ampicillin,Burkina Faso,0.5686661066263227
+Serratia marcescens,Ampicillin,Ivory Coast,0.7564772611603955
+Serratia marcescens,Ampicillin,Ghana,0.32432272786498323
+Serratia marcescens,Ampicillin,Mali,0.3925099732970634
+Serratia marcescens,Ampicillin,Nigeria,0.3121550767465247
+Serratia marcescens,Ampicillin,Senegal,0.17101619853025624
+Serratia marcescens,Ampicillin,Togo,0.1360798236154139
+Serratia marcescens,Ceftriaxone,Benin,0.25630833472444714
+Serratia marcescens,Ceftriaxone,Burkina Faso,0.5136528301907951
+Serratia marcescens,Ceftriaxone,Ivory Coast,0.5254148482236962
+Serratia marcescens,Ceftriaxone,Ghana,0.35694531642909144
+Serratia marcescens,Ceftriaxone,Mali,0.48065550073367236
+Serratia marcescens,Ceftriaxone,Nigeria,0.3486333024991608
+Serratia marcescens,Ceftriaxone,Senegal,0.20060175772002273
+Serratia marcescens,Ceftriaxone,Togo,0.8854292950987155
+Serratia marcescens,Ceftazidime,Benin,0.41141881644701017
+Serratia marcescens,Ceftazidime,Burkina Faso,0.10153941323608882
+Serratia marcescens,Ceftazidime,Ivory Coast,0.3358865184812031
+Serratia marcescens,Ceftazidime,Ghana,0.1834015189278233
+Serratia marcescens,Ceftazidime,Mali,0.20012021393462903
+Serratia marcescens,Ceftazidime,Nigeria,0.7349253429372745
+Serratia marcescens,Ceftazidime,Senegal,0.6499904079444672
+Serratia marcescens,Ceftazidime,Togo,0.7843088310235644
+Serratia marcescens,Cefotaxime,Benin,0.5529138635325588
+Serratia marcescens,Cefotaxime,Burkina Faso,0.23838655799500455
+Serratia marcescens,Cefotaxime,Ivory Coast,0.23948872187637946
+Serratia marcescens,Cefotaxime,Ghana,0.5712462110912971
+Serratia marcescens,Cefotaxime,Mali,0.6719204637239907
+Serratia marcescens,Cefotaxime,Nigeria,0.7374283721580731
+Serratia marcescens,Cefotaxime,Senegal,0.2846043757606543
+Serratia marcescens,Cefotaxime,Togo,0.6149780201475836
+Serratia marcescens,Cefepime,Benin,0.4012227086541321
+Serratia marcescens,Cefepime,Burkina Faso,0.46058195070254715
+Serratia marcescens,Cefepime,Ivory Coast,0.4516422315017258
+Serratia marcescens,Cefepime,Ghana,0.6651538322911437
+Serratia marcescens,Cefepime,Mali,0.28821798438504853
+Serratia marcescens,Cefepime,Nigeria,0.25297095768902605
+Serratia marcescens,Cefepime,Senegal,0.14756576536310684
+Serratia marcescens,Cefepime,Togo,0.49058486795516665
+Serratia marcescens,Imipenem,Benin,0.8669387340367715
+Serratia marcescens,Imipenem,Burkina Faso,0.6571447431220345
+Serratia marcescens,Imipenem,Ivory Coast,0.26800256043359494
+Serratia marcescens,Imipenem,Ghana,0.7052666883552842
+Serratia marcescens,Imipenem,Mali,0.8213503069572187
+Serratia marcescens,Imipenem,Nigeria,0.66157560946204
+Serratia marcescens,Imipenem,Senegal,0.4403905467156287
+Serratia marcescens,Imipenem,Togo,0.31280614846202126
+Serratia marcescens,Meropenem,Benin,0.5333680357773253
+Serratia marcescens,Meropenem,Burkina Faso,0.26975086113953617
+Serratia marcescens,Meropenem,Ivory Coast,0.6863081073603533
+Serratia marcescens,Meropenem,Ghana,0.3990676989930648
+Serratia marcescens,Meropenem,Mali,0.7948838089902938
+Serratia marcescens,Meropenem,Nigeria,0.8789216450022345
+Serratia marcescens,Meropenem,Senegal,0.8176352313164978
+Serratia marcescens,Meropenem,Togo,0.526015217800683
+Serratia marcescens,Ertapenem,Benin,0.8600403382327374
+Serratia marcescens,Ertapenem,Burkina Faso,0.8514747857285742
+Serratia marcescens,Ertapenem,Ivory Coast,0.8809683591775176
+Serratia marcescens,Ertapenem,Ghana,0.8930286493450305
+Serratia marcescens,Ertapenem,Mali,0.5624141862638508
+Serratia marcescens,Ertapenem,Nigeria,0.11113067351776529
+Serratia marcescens,Ertapenem,Senegal,0.16606105889002587
+Serratia marcescens,Ertapenem,Togo,0.7165682976061803
+Serratia marcescens,Ciprofloxacin,Benin,0.6898763745472705
+Serratia marcescens,Ciprofloxacin,Burkina Faso,0.7797566578710884
+Serratia marcescens,Ciprofloxacin,Ivory Coast,0.5689316603852982
+Serratia marcescens,Ciprofloxacin,Ghana,0.4255478007310102
+Serratia marcescens,Ciprofloxacin,Mali,0.7704529583045812
+Serratia marcescens,Ciprofloxacin,Nigeria,0.1375359684163649
+Serratia marcescens,Ciprofloxacin,Senegal,0.7618983225947251
+Serratia marcescens,Ciprofloxacin,Togo,0.6088073898947305
+Serratia marcescens,Levofloxacin,Benin,0.6266354339888031
+Serratia marcescens,Levofloxacin,Burkina Faso,0.7180058208783112
+Serratia marcescens,Levofloxacin,Ivory Coast,0.31762473598197155
+Serratia marcescens,Levofloxacin,Ghana,0.3008026962628969
+Serratia marcescens,Levofloxacin,Mali,0.5248750602938934
+Serratia marcescens,Levofloxacin,Nigeria,0.1527496309806038
+Serratia marcescens,Levofloxacin,Senegal,0.5169993617705847
+Serratia marcescens,Levofloxacin,Togo,0.4677313294321751
+Serratia marcescens,Gentamicin,Benin,0.35243697291731724
+Serratia marcescens,Gentamicin,Burkina Faso,0.3184717394482024
+Serratia marcescens,Gentamicin,Ivory Coast,0.7694738858230686
+Serratia marcescens,Gentamicin,Ghana,0.3775689988156663
+Serratia marcescens,Gentamicin,Mali,0.7928872317573084
+Serratia marcescens,Gentamicin,Nigeria,0.11526674747830966
+Serratia marcescens,Gentamicin,Senegal,0.8730932256327528
+Serratia marcescens,Gentamicin,Togo,0.32522145245867273
+Serratia marcescens,Amikacin,Benin,0.3697990855785339
+Serratia marcescens,Amikacin,Burkina Faso,0.44651338751869274
+Serratia marcescens,Amikacin,Ivory Coast,0.3616448783334293
+Serratia marcescens,Amikacin,Ghana,0.8986193525836017
+Serratia marcescens,Amikacin,Mali,0.3839888519956566
+Serratia marcescens,Amikacin,Nigeria,0.6985638688183751
+Serratia marcescens,Amikacin,Senegal,0.31799766797845497
+Serratia marcescens,Amikacin,Togo,0.5536074071471891
+Serratia marcescens,Tobramycin,Benin,0.5916493219208795
+Serratia marcescens,Tobramycin,Burkina Faso,0.5112149869555237
+Serratia marcescens,Tobramycin,Ivory Coast,0.5517698157317551
+Serratia marcescens,Tobramycin,Ghana,0.6650490634224597
+Serratia marcescens,Tobramycin,Mali,0.23135468257455988
+Serratia marcescens,Tobramycin,Nigeria,0.6710348452358315
+Serratia marcescens,Tobramycin,Senegal,0.6717003535678349
+Serratia marcescens,Tobramycin,Togo,0.7337543474639201
+Serratia marcescens,Trimethoprim/Sulfamethoxazole,Benin,0.44605375593041197
+Serratia marcescens,Trimethoprim/Sulfamethoxazole,Burkina Faso,0.32881258246164946
+Serratia marcescens,Trimethoprim/Sulfamethoxazole,Ivory Coast,0.4879794756657597
+Serratia marcescens,Trimethoprim/Sulfamethoxazole,Ghana,0.15027972233388978
+Serratia marcescens,Trimethoprim/Sulfamethoxazole,Mali,0.5810345250624017
+Serratia marcescens,Trimethoprim/Sulfamethoxazole,Nigeria,0.6960217364458162
+Serratia marcescens,Trimethoprim/Sulfamethoxazole,Senegal,0.5206784279314456
+Serratia marcescens,Trimethoprim/Sulfamethoxazole,Togo,0.8604322749042969
+Serratia marcescens,Tetracycline,Benin,0.4029083555840154
+Serratia marcescens,Tetracycline,Burkina Faso,0.8211250505854403
+Serratia marcescens,Tetracycline,Ivory Coast,0.17254090377135267
+Serratia marcescens,Tetracycline,Ghana,0.658820711078902
+Serratia marcescens,Tetracycline,Mali,0.5353505586126136
+Serratia marcescens,Tetracycline,Nigeria,0.10483185026471481
+Serratia marcescens,Tetracycline,Senegal,0.5759778875377394
+Serratia marcescens,Tetracycline,Togo,0.43121550375636253
+Serratia marcescens,Doxycycline,Benin,0.7236586926892854
+Serratia marcescens,Doxycycline,Burkina Faso,0.5176732877009288
+Serratia marcescens,Doxycycline,Ivory Coast,0.11709508696708576
+Serratia marcescens,Doxycycline,Ghana,0.39697744281656056
+Serratia marcescens,Doxycycline,Mali,0.8475902925198033
+Serratia marcescens,Doxycycline,Nigeria,0.3854864297653764
+Serratia marcescens,Doxycycline,Senegal,0.21477647278587808
+Serratia marcescens,Doxycycline,Togo,0.672844601017945
+Serratia marcescens,Clindamycin,Benin,0.4607944607011625
+Serratia marcescens,Clindamycin,Burkina Faso,0.2173130315359285
+Serratia marcescens,Clindamycin,Ivory Coast,0.6043350718987347
+Serratia marcescens,Clindamycin,Ghana,0.5828841982674442
+Serratia marcescens,Clindamycin,Mali,0.13712163243701037
+Serratia marcescens,Clindamycin,Nigeria,0.37355091971707055
+Serratia marcescens,Clindamycin,Senegal,0.5231877954811113
+Serratia marcescens,Clindamycin,Togo,0.5578786723616235
+Serratia marcescens,Erythromycin,Benin,0.16969812738166495
+Serratia marcescens,Erythromycin,Burkina Faso,0.35917684190949084
+Serratia marcescens,Erythromycin,Ivory Coast,0.10625922618945075
+Serratia marcescens,Erythromycin,Ghana,0.12007919250922879
+Serratia marcescens,Erythromycin,Mali,0.2674786644931422
+Serratia marcescens,Erythromycin,Nigeria,0.15402233869414428
+Serratia marcescens,Erythromycin,Senegal,0.7663752284371544
+Serratia marcescens,Erythromycin,Togo,0.23786259010116995
+Serratia marcescens,Linezolid,Benin,0.5177334114316695
+Serratia marcescens,Linezolid,Burkina Faso,0.2935000450086534
+Serratia marcescens,Linezolid,Ivory Coast,0.21500471075478889
+Serratia marcescens,Linezolid,Ghana,0.8641062541486736
+Serratia marcescens,Linezolid,Mali,0.8057861394146052
+Serratia marcescens,Linezolid,Nigeria,0.5819204940956688
+Serratia marcescens,Linezolid,Senegal,0.40876298105016096
+Serratia marcescens,Linezolid,Togo,0.499311134958236
+Serratia marcescens,Vancomycin,Benin,0.5380753035641024
+Serratia marcescens,Vancomycin,Burkina Faso,0.3030046109092422
+Serratia marcescens,Vancomycin,Ivory Coast,0.648589707222705
+Serratia marcescens,Vancomycin,Ghana,0.29536832407724556
+Serratia marcescens,Vancomycin,Mali,0.5033245498933191
+Serratia marcescens,Vancomycin,Nigeria,0.4491592301598234
+Serratia marcescens,Vancomycin,Senegal,0.541401593070466
+Serratia marcescens,Vancomycin,Togo,0.7156064621433266
+Serratia marcescens,Piperacillin/Tazobactam,Benin,0.8305691743787317
+Serratia marcescens,Piperacillin/Tazobactam,Burkina Faso,0.2454257224242464
+Serratia marcescens,Piperacillin/Tazobactam,Ivory Coast,0.31213858232964176
+Serratia marcescens,Piperacillin/Tazobactam,Ghana,0.13822485151313604
+Serratia marcescens,Piperacillin/Tazobactam,Mali,0.3726406924151091
+Serratia marcescens,Piperacillin/Tazobactam,Nigeria,0.5158480198126654
+Serratia marcescens,Piperacillin/Tazobactam,Senegal,0.11473772768067603
+Serratia marcescens,Piperacillin/Tazobactam,Togo,0.2924704867366724
+Serratia marcescens,Nitrofurantoin,Benin,0.60296581625058
+Serratia marcescens,Nitrofurantoin,Burkina Faso,0.6637134045451288
+Serratia marcescens,Nitrofurantoin,Ivory Coast,0.3624045369166724
+Serratia marcescens,Nitrofurantoin,Ghana,0.8051924638457878
+Serratia marcescens,Nitrofurantoin,Mali,0.5681722352979058
+Serratia marcescens,Nitrofurantoin,Nigeria,0.27120773695536116
+Serratia marcescens,Nitrofurantoin,Senegal,0.7309623493732145
+Serratia marcescens,Nitrofurantoin,Togo,0.3292988522502872

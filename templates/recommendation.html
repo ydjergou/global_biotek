@@ -1,0 +1,134 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="row">
+    <div class="col-md-4">
+        <div class="card mb-4 shadow-sm border-0 bg-light">
+            <div class="card-body">
+                <h4 class="card-title fw-bold text-primary mb-4"><i class="bi bi-search"></i> Profil Microbiologique</h4>
+                <form action="/recommendation" method="POST">
+                    <div class="mb-3">
+                        <label for="bacteria" class="form-label fw-bold">Bactérie (ESKAPE)</label>
+                        <select class="form-select" id="bacteria" name="bacteria" required>
+                            <option value="">Sélectionner...</option>
+                            {% for bact in bacteria_list %}
+                            <option value="{{ bact }}" {% if selection and selection.bacteria == bact %}selected{% endif %}>{{ bact }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <label for="country" class="form-label fw-bold">Pays (ECOWAS)</label>
+                        <select class="form-select" id="country" name="country" required>
+                            <option value="">Sélectionner...</option>
+                            {% for country in countries_list %}
+                            <option value="{{ country }}" {% if selection and selection.country == country %}selected{% endif %}>{{ country }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <label for="site" class="form-label fw-bold">Site de Prélèvement</label>
+                        <select class="form-select" id="site" name="site" required>
+                            <option value="">Sélectionner...</option>
+                            {% for site in sites_list %}
+                            <option value="{{ site }}" {% if selection and selection.site == site %}selected{% endif %}>{{ site }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                    <button type="submit" class="btn btn-primary w-100 fw-bold">Obtenir Recommandation</button>
+                </form>
+            </div>
+        </div>
+        
+        {% if cocktails %}
+        <div class="card shadow-sm border-0 bg-info bg-opacity-10">
+            <div class="card-body">
+                <h5 class="card-title fw-bold text-info mb-3"><i class="bi bi-plus-circle"></i> Suggestion de Cocktails</h5>
+                {% for cocktail in cocktails %}
+                <div class="mb-3 border-bottom pb-2 last-child-no-border">
+                    <p class="mb-1 fw-bold">{{ cocktail.pair[0] }} + {{ cocktail.pair[1] }}</p>
+                    <small class="text-muted">Score de confiance : {{ cocktail.score }}%</small>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+        {% endif %}
+    </div>
+
+    <div class="col-md-8">
+        {% if results %}
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <h4 class="fw-bold text-primary"><i class="bi bi-clipboard-check"></i> Recommandations Thérapeutiques</h4>
+            <form action="/export_pdf" method="POST">
+                <input type="hidden" name="bacteria" value="{{ selection.bacteria }}">
+                <input type="hidden" name="country" value="{{ selection.country }}">
+                <input type="hidden" name="site" value="{{ selection.site }}">
+                <input type="hidden" name="results" value='{{ results | tojson }}'>
+                <button type="submit" class="btn btn-outline-danger btn-sm fw-bold">
+                    <i class="bi bi-file-earmark-pdf"></i> Export PDF
+                </button>
+            </form>
+        </div>
+        
+        <div class="card shadow-sm border-0 mb-4">
+            <div class="card-body p-0">
+                <div class="table-responsive">
+                    <table class="table table-hover align-middle mb-0">
+                        <thead class="table-light">
+                            <tr>
+                                <th>Antibiotique</th>
+                                <th>Statut IA</th>
+                                <th>Confiance</th>
+                                <th>Score S</th>
+                                <th>Score R</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for res in results %}
+                            <tr>
+                                <td class="fw-bold">{{ res.antibiotic }}</td>
+                                <td>
+                                    <span class="status-{% if res.status == 'Sensible' %}sensible{% elif res.status == 'Résistant' %}resistant{% else %}incertain{% endif %}">
+                                        {{ res.status }}
+                                    </span>
+                                </td>
+                                <td>
+                                    <div class="progress" style="height: 10px;">
+                                        <div class="progress-bar {% if res.status == 'Sensible' %}bg-success{% elif res.status == 'Résistant' %}bg-danger{% else %}bg-warning{% endif %}" 
+                                             role="progressbar" 
+                                             style="width: {{ res.confidence }}%" 
+                                             aria-valuenow="{{ res.confidence }}" 
+                                             aria-valuemin="0" 
+                                             aria-valuemax="100"></div>
+                                    </div>
+                                    <small>{{ res.confidence }}%</small>
+                                </td>
+                                <td class="text-success small">{{ (res.s_prob * 100) | round(1) }}%</td>
+                                <td class="text-danger small">{{ (res.r_prob * 100) | round(1) }}%</td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        
+        <div class="card border-0 bg-light shadow-sm">
+            <div class="card-body">
+                <h5 class="fw-bold text-secondary"><i class="bi bi-info-circle"></i> Zones de Confiance</h5>
+                <ul class="mb-0 small text-muted">
+                    <li><strong class="text-success">Sensible</strong> : Probabilité d'efficacité > 70%</li>
+                    <li><strong class="text-danger">Résistant</strong> : Probabilité de résistance > 70%</li>
+                    <li><strong class="text-warning">Incertain</strong> : Les résultats ne permettent pas de trancher de manière fiable.</li>
+                </ul>
+            </div>
+        </div>
+
+        {% else %}
+        <div class="text-center py-5">
+            <i class="bi bi-hospital display-1 text-muted opacity-25"></i>
+            <h4 class="mt-4 text-muted">Veuillez renseigner le profil microbiologique à gauche pour obtenir une recommandation.</h4>
+        </div>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}
