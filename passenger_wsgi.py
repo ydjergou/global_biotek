@@ -1,11 +1,7 @@
 import sys
 import os
 
-# Ajoute le répertoire de l'app au path Python
-INTERP = "/home/htesbanzny/virtualenv/global-biotek/3.12/bin/python"
-if sys.executable != INTERP:
-    os.execl(INTERP, INTERP, *sys.argv)
-
+# Le bon Python est déjà sélectionné via PassengerPython dans .htaccess
 sys.path.insert(0, os.path.dirname(__file__))
 
 from app import app as application
