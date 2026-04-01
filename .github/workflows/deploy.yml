@@ -1,0 +1,57 @@
+name: Deploy to N0C (PlanetHoster)
+
+on:
+  push:
+    branches:
+      - main
+
+env:
+  SSH_HOST: node31-ca.n0c.com
+  SSH_PORT: 22
+  SSH_USER: htesbanzny
+  REMOTE_PATH: /home/htesbanzny/global-biotek
+
+jobs:
+  deploy:
+    name: Deploy via SSH
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup SSH key
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/deploy_key
+          chmod 600 ~/.ssh/deploy_key
+          ssh-keyscan -p ${{ env.SSH_PORT }} ${{ env.SSH_HOST }} >> ~/.ssh/known_hosts
+
+      - name: Sync files to server
+        run: |
+          rsync -avz --delete \
+            --exclude='.git' \
+            --exclude='.github' \
+            --exclude='__pycache__' \
+            --exclude='*.pyc' \
+            --exclude='.env' \
+            --exclude='venv/' \
+            --exclude='.venv/' \
+            -e "ssh -i ~/.ssh/deploy_key -p ${{ env.SSH_PORT }}" \
+            ./ ${{ env.SSH_USER }}@${{ env.SSH_HOST }}:${{ env.REMOTE_PATH }}/
+
+      - name: Install dependencies & restart app
+        run: |
+          ssh -i ~/.ssh/deploy_key \
+              -p ${{ env.SSH_PORT }} \
+              ${{ env.SSH_USER }}@${{ env.SSH_HOST }} << 'EOF'
+            set -e
+
+            source /home/htesbanzny/virtualenv/global-biotek/3.12/bin/activate
+            pip install -r /home/htesbanzny/global-biotek/requirements.txt --quiet
+
+            mkdir -p /home/htesbanzny/global-biotek/tmp
+            touch /home/htesbanzny/global-biotek/tmp/restart.txt
+
+            echo "Deployment successful!"
+          EOF
